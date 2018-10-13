@@ -1,0 +1,32 @@
+{"Continent": "Europe", "League": "UEFA", "Population": "144300000", "Team": "Russia", "TeamID": "A1"}
+{"Continent": "Asia", "League": "AFC", "Population": "32280000", "Team": "Saudi Arabia", "TeamID": "A2"}
+{"Continent": "Africa", "League": "CAF", "Population": "95690000", "Team": "Egypt", "TeamID": "A3"}
+{"Continent": "South America", "League": "CONMEBOL", "Population": "3444000", "Team": "Uruguay", "TeamID": "A4"}
+{"Continent": "Europe", "League": "UEFA", "Population": "10320000", "Team": "Portugal", "TeamID": "B1"}
+{"Continent": "Europe", "League": "UEFA", "Population": "46560000", "Team": "Spain", "TeamID": "B2"}
+{"Continent": "Africa", "League": "CAF", "Population": "35280000", "Team": "Morocco", "TeamID": "B3"}
+{"Continent": "Asia", "League": "AFC", "Population": "80280000", "Team": "IR Iran", "TeamID": "B4"}
+{"Continent": "Europe", "League": "UEFA", "Population": "66900000", "Team": "France", "TeamID": "C1"}
+{"Continent": "Australia", "League": "AFC", "Population": "24130000", "Team": "Australia", "TeamID": "C2"}
+{"Continent": "South America", "League": "CONMEBOL", "Population": "31770000", "Team": "Peru", "TeamID": "C3"}
+{"Continent": "Europe", "League": "UEFA", "Population": "5731000", "Team": "Denmark", "TeamID": "C4"}
+{"Continent": "South America", "League": "CONMEBOL", "Population": "43850000", "Team": "Argentina", "TeamID": "D1"}
+{"Continent": "Europe", "League": "UEFA", "Population": "334252", "Team": "Iceland", "TeamID": "D2"}
+{"Continent": "Europe", "League": "UEFA", "Population": "4171000", "Team": "Croatia", "TeamID": "D3"}
+{"Continent": "Africa", "League": "CAF", "Population": "186000000", "Team": "Nigeria", "TeamID": "D4"}
+{"Continent": "South America", "League": "CONMEBOL", "Population": "207700000", "Team": "Brazil", "TeamID": "E1"}
+{"Continent": "Europe", "League": "UEFA", "Population": "8372000", "Team": "Switzerland", "TeamID": "E2"}
+{"Continent": "Central America", "League": "CONCACAF", "Population": "4857000", "Team": "Costa Rica", "TeamID": "E3"}
+{"Continent": "Europe", "League": "UEFA", "Population": "7057000", "Team": "Serbia", "TeamID": "E4"}
+{"Continent": "Europe", "League": "UEFA", "Population": "82670000", "Team": "Germany", "TeamID": "F1"}
+{"Continent": "North America", "League": "CONCACAF", "Population": "127500000", "Team": "Mexico", "TeamID": "F2"}
+{"Continent": "Europe", "League": "UEFA", "Population": "9903000", "Team": "Sweden", "TeamID": "F3"}
+{"Continent": "Asia", "League": "AFC", "Population": "51250000", "Team": "Korea Republic", "TeamID": "F4"}
+{"Continent": "Europe", "League": "UEFA", "Population": "11350000", "Team": "Belgium", "TeamID": "G1"}
+{"Continent": "Carribean", "League": "CONCACAF", "Population": "4037000", "Team": "Panama", "TeamID": "G2"}
+{"Continent": "Africa", "League": "CAF", "Population": "11400000", "Team": "Tunisia", "TeamID": "G3"}
+{"Continent": "Europe", "League": "UEFA", "Population": "54786000", "Team": "England", "TeamID": "G4"}
+{"Continent": "Europe", "League": "UEFA", "Population": "37950000", "Team": "Poland", "TeamID": "H1"}
+{"Continent": "Africa", "League": "CAF", "Population": "15410000", "Team": "Senegal", "TeamID": "H2"}
+{"Continent": "South America", "League": "CONMEBOL", "Population": "48650000", "Team": "Colombia", "TeamID": "H3"}
+{"Continent": "Asia", "League": "AFC", "Population": "127000000", "Team": "Japan", "TeamID": "H4"}

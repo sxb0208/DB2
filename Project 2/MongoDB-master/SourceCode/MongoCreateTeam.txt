@@ -1,0 +1,38 @@
+import csv
+import json
+from collections import OrderedDict
+from pymongo import MongoClient
+import sys, getopt, pprint
+
+# DataBase Connection
+connection = MongoClient('localhost', 27017)
+print "DB Connected Successfully"
+
+# Create Stadium Document
+def createDocumentStadium():
+    db = connection.Soccer
+    db.Team_Scores.drop()
+    getAllTeam_Scores = db.Team.distinct('Team')
+    for team in getAllTeam_Scores:
+        teamid = db.Team.find_one({'Team' : team},{'TeamID':1})
+        MatchDetails = db.Game.find({$or: [{'TeamID1': teamid},{'TeamID2': teamid}]})
+        matchHistoryArray = []
+        for data in MatchDetails:
+            matchList = {
+                'TeamID1': data['TeamID1'],
+                'TeamID2': data['TeamID2'],
+                'Team1_score': int(data['Team1_score']),
+                'Team2_score': int(data['Team2_score']),
+				'SID' : data['sid'],
+                'Date': data['Date']
+            }
+            matchHistoryArray.append(matchList)
+
+        db.Team_Scores.insert({
+            'Team': team,
+            'TeamID' : teamid,
+            'Match': matchHistoryArray
+        })	
+
+if __name__ == '__main__':
+    createDocumentStadium()

@@ -1,0 +1,13 @@
+SID,SName,SCity,SCapacity
+S01,Luzhniki Stadium,Moscow,80000
+S02,Saint Petersburg Stadium,Saint Petersburg,67000
+S03,Fisht Stadium,Sochi,48000
+S04,Ekaterinburg Arena,Ekaterinburg,45000
+S05,Kazan Arena,Kazan,45000
+S06,Nizhny Novgorod Stadium,Nizhny Novgorod,45000
+S07,Rostov Arena,Rostov-on-Don,45000
+S08,Samara Arena,Samara,45000
+S09,Mordovia Arena,Saransk,45000
+S10,Volgograd Stadium,Volgograd,45000
+S11,Spartak Stadium,Moscow,42000
+S12,Kaliningrad Stadium,Kaliningrad,35000

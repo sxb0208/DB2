@@ -1,0 +1,237 @@
+***********************************************
+Line from file :b1;
+***********************************************
+Transaction T1 created and added to the transaction table!
+***********************************************
+Line from file :r1 (Y);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Y
+Lock Status: RL
+Transactions that are Holding the lock: T1 
+
+
+******************Transaction Table***************** 
+Transaction: T1
+Transaction's TimeStamp: 1
+Transaction State: ACTIVE
+Items Locked: Y 
+
+***********************************************
+Line from file :w1 (Y);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Y
+Lock Status: WL
+Transactions that are Holding the lock: T1 
+
+
+******************Transaction Table***************** 
+Transaction: T1
+Transaction's TimeStamp: 1
+Transaction State: ACTIVE
+Items Locked: Y 
+
+***********************************************
+Line from file :r1 (Z);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Z
+Lock Status: RL
+Transactions that are Holding the lock: T1 
+
+
+******************Transaction Table***************** 
+Transaction: T1
+Transaction's TimeStamp: 1
+Transaction State: ACTIVE
+Items Locked: Y Z 
+
+***********************************************
+Line from file :b2;
+***********************************************
+Transaction T2 created and added to the transaction table!
+***********************************************
+Line from file :r2 (X);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: X
+Lock Status: RL
+Transactions that are Holding the lock: T2 
+
+
+******************Transaction Table***************** 
+Transaction: T2
+Transaction's TimeStamp: 2
+Transaction State: ACTIVE
+Items Locked: X 
+
+***********************************************
+Line from file :w2 (X);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: X
+Lock Status: WL
+Transactions that are Holding the lock: T2 
+
+
+******************Transaction Table***************** 
+Transaction: T2
+Transaction's TimeStamp: 2
+Transaction State: ACTIVE
+Items Locked: X 
+
+***********************************************
+Line from file :w1 (Z);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Z
+Lock Status: WL
+Transactions that are Holding the lock: T1 
+
+
+******************Transaction Table***************** 
+Transaction: T1
+Transaction's TimeStamp: 1
+Transaction State: ACTIVE
+Items Locked: Y Z 
+
+***********************************************
+Line from file :e1;
+***********************************************
+Transaction T1 has been committed
+
+******************Transaction Table***************** 
+Transaction: T1
+Transaction's TimeStamp: 1
+Transaction State: COMMITTED
+Items Locked: 
+
+***********************************************
+Line from file :r2 (Y);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Y
+Lock Status: RL
+Transactions that are Holding the lock: T2 
+
+
+******************Transaction Table***************** 
+Transaction: T2
+Transaction's TimeStamp: 2
+Transaction State: ACTIVE
+Items Locked: X Y 
+
+***********************************************
+Line from file :b3;
+***********************************************
+Transaction T3 created and added to the transaction table!
+***********************************************
+Line from file :r3 (Z);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Z
+Lock Status: RL
+Transactions that are Holding the lock: T3 
+
+
+******************Transaction Table***************** 
+Transaction: T3
+Transaction's TimeStamp: 3
+Transaction State: ACTIVE
+Items Locked: Z 
+
+***********************************************
+Line from file :w3 (Z);	
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Z
+Lock Status: WL
+Transactions that are Holding the lock: T3 
+
+
+******************Transaction Table***************** 
+Transaction: T3
+Transaction's TimeStamp: 3
+Transaction State: ACTIVE
+Items Locked: Z 
+
+***********************************************
+Line from file :w2 (Y);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: Y
+Lock Status: WL
+Transactions that are Holding the lock: T2 
+
+
+******************Transaction Table***************** 
+Transaction: T2
+Transaction's TimeStamp: 2
+Transaction State: ACTIVE
+Items Locked: X Y 
+
+***********************************************
+Line from file :e2;
+***********************************************
+Transaction T2 has been committed
+
+******************Transaction Table***************** 
+Transaction: T2
+Transaction's TimeStamp: 2
+Transaction State: COMMITTED
+Items Locked: 
+
+***********************************************
+Line from file :r3 (X);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: X
+Lock Status: RL
+Transactions that are Holding the lock: T3 
+
+
+******************Transaction Table***************** 
+Transaction: T3
+Transaction's TimeStamp: 3
+Transaction State: ACTIVE
+Items Locked: Z X 
+
+***********************************************
+Line from file :w3 (X);
+***********************************************
+
+*****************Lock Table*******************
+Data Item: X
+Lock Status: WL
+Transactions that are Holding the lock: T3 
+
+
+******************Transaction Table***************** 
+Transaction: T3
+Transaction's TimeStamp: 3
+Transaction State: ACTIVE
+Items Locked: Z X 
+
+***********************************************
+Line from file :e3;
+***********************************************
+Transaction T3 has been committed
+
+******************Transaction Table***************** 
+Transaction: T3
+Transaction's TimeStamp: 3
+Transaction State: COMMITTED
+Items Locked: 
+

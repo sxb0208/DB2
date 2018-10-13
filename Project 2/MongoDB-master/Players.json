@@ -1,0 +1,736 @@
+{"null": ["354875", "ABDELMOUMENE DJABOU", "ABDELMOUMENE", "DJABOU", "1/31/87", "Algeria", "168", "Club Africain", "Forward", "7", "FALSE"]}
+{"null": ["198243", "ABEL AGUILAR", "ABEL", "AGUILAR", "1/6/85", "Columbia", "187", "Toulouse FC", "Midfielder", "48", "FALSE"]}
+{"null": ["305372", "ABEL HERNANDEZ", "ABEL", "HERNANDEZ", "8/8/90", "Uruguay", "186", "US Citta di Palermo", "Forward", "12", "FALSE"]}
+{"null": ["379972", "ACQUAH AFRIYIE", "ACQUAH", "AFRIYIE", "5/1/92", "Ghana", "162", "Parma FC", "Midfielder", "4", "FALSE"]}
+{"null": ["353237", "ADAM KWARASEY", "ADAM", "KWARASEY", "12/12/87", "Ghana", "190", "Stromsgodset IF", "Goalkeeper", "21", "FALSE"]}
+{"null": ["361222", "ADAM LALLANA", "ADAM", "LALLANA", "5/10/88", "England", "179", "Southampton FC", "Midfielder", "4", "FALSE"]}
+{"null": ["368902", "ADAM TAGGART", "ADAM", "TAGGART", "6/2/93", "Australia", "172", "Newcastle United Jets FC", "Forward", "4", "FALSE"]}
+{"null": ["356409", "ADMIR MEHMEDI", "ADMIR", "MEHMEDI", "3/16/91", "Switzerland", "183", "SC Freiburg", "Forward", "21", "FALSE"]}
+{"null": ["379910", "ADNAN JANUZAJ", "ADNAN", "JANUZAJ", "2/5/95", "Belgium", "180", "Manchester United FC", "Midfielder", "0", "FALSE"]}
+{"null": ["349568", "ADRIAN BONE", "ADRIAN", "BONE", "9/8/88", "Ecuador", "188", "CD El Nacional", "Goalkeeper", "3", "FALSE"]}
+{"null": ["200847", "ADRIAN RAMOS", "ADRIAN", "RAMOS", "1/22/86", "Columbia", "184", "Hertha BSC", "Forward", "25", "FALSE"]}
+{"null": ["274703", "AGUSTIN ORION", "AGUSTIN", "ORION", "7/26/81", "Argentina", "190", "CA Boca Juniors", "Goalkeeper", "3", "FALSE"]}
+{"null": ["295153", "AHMAD ALNAMEH", "AHMAD", "ALNAMEH", "10/20/82", "Iran", "189", "Naft Tehran FC", "Defender", "9", "FALSE"]}
+{"null": ["344714", "AHMED MUSA", "AHMED", "MUSA", "10/14/92", "Nigeria", "176", "CSKA Moscow", "Forward", "37", "FALSE"]}
+{"null": ["376285", "AISSA MANDI", "AISSA", "MANDI", "10/22/91", "Algeria", "184", "Stade de Reims", "Defender", "2", "FALSE"]}
+{"null": ["302539", "ALAN DZAGOEV", "ALAN", "DZAGOEV", "6/17/90", "Russia", "178", "CSKA Moscow", "Midfielder", "32", "FALSE"]}
+{"null": ["336722", "ALAN PULIDO", "ALAN", "PULIDO", "3/8/91", "Mexico", "176", "Tigres UANL", "Forward", "5", "FALSE"]}
+{"null": ["364707", "ALBERT ADOMAH", "ALBERT", "ADOMAH", "12/13/87", "Ghana", "162", "Middlesbrough FC", "Midfielder", "14", "FALSE"]}
+{"null": ["215623", "ALBERTO AQUILANI", "ALBERTO", "AQUILANI", "7/7/84", "Italy", "184", "ACF Fiorentina", "Midfielder", "34", "FALSE"]}
+{"null": ["181698", "ALDO RAMIREZ", "ALDO", "RAMIREZ", "4/18/81", "Columbia", "175", "CA Monarcas Morelia", "Midfielder", "29", "FALSE"]}
+{"null": ["296273", "ALEJANDRO BEDOYA", "ALEJANDRO", "BEDOYA", "4/29/87", "USA", "178", "FC Nantes", "Midfielder", "26", "FALSE"]}
+{"null": ["186808", "ALEKSANDR KERZHAKOV", "ALEKSANDR", "KERZHAKOV", "11/27/82", "Russia", "175", "FC Zenit St. Petersburg", "Forward", "80", "FALSE"]}
+{"null": ["369983", "ALEKSEI KOZLOV", "ALEKSEI", "KOZLOV", "12/25/86", "Russia", "185", "FC Dynamo Moscow", "Defender", "10", "FALSE"]}
+{"null": ["228942", "ALESSIO CERCI", "ALESSIO", "CERCI", "7/23/87", "Italy", "177", "Torino FC", "Forward", "11", "FALSE"]}
+{"null": ["336869", "ALEX IBARRA", "ALEX", "IBARRA", "1/20/91", "Ecuador", "171", "Vitesse Arnheim", "Midfielder", "17", "FALSE"]}
+{"null": ["356198", "ALEX OXLADE CHAMBERLAIN", "ALEX", "OXLADE CHAMBERLAIN", "8/15/93", "England", "180", "Arsenal FC", "Midfielder", "14", "FALSE"]}
+{"null": ["182620", "ALEX WILKINSON", "ALEX", "WILKINSON", "8/13/84", "Australia", "183", "Jeonbuk Hyundai Motors FC", "Defender", "2", "FALSE"]}
+{"null": ["303419", "ALEXANDER DOMINGUEZ", "ALEXANDER", "DOMINGUEZ", "6/5/87", "Ecuador", "196", "LDU Quito", "Goalkeeper", "18", "FALSE"]}
+{"null": ["358048", "ALEXANDER KOKORIN", "ALEXANDER", "KOKORIN", "3/19/91", "Russia", "182", "FC Dynamo Moscow", "Forward", "21", "FALSE"]}
+{"null": ["228691", "ALEXANDER MEJIA", "ALEXANDER", "MEJIA", "7/11/88", "Columbia", "179", "Atletico Nacional", "Midfielder", "8", "FALSE"]}
+{"null": ["216435", "ALEXANDER SAMEDOV", "ALEXANDER", "SAMEDOV", "7/19/84", "Russia", "178", "FC Lokomotiv Moscow", "Forward", "16", "FALSE"]}
+{"null": ["200261", "ALEXANDRE SONG", "ALEXANDRE", "SONG", "9/9/87", "Cameroon", "183", "FC Barcelona", "Midfielder", "46", "FALSE"]}
+{"null": ["228351", "ALEXANDROS TZIOLIS", "ALEXANDROS", "TZIOLIS", "2/13/85", "Greece", "190", "Kayserispor", "Midfielder", "49", "FALSE"]}
+{"null": ["358881", "ALEXEY IONOV", "ALEXEY", "IONOV", "2/18/89", "Russia", "178", "FC Dynamo Moscow", "Forward", "5", "FALSE"]}
+{"null": ["228627", "ALEXIS SANCHEZ", "ALEXIS", "SANCHEZ", "12/19/88", "Chile", "169", "FC Barcelona", "Forward", "66", "FALSE"]}
+{"null": ["175546", "ALFREDO TALAVERA", "ALFREDO", "TALAVERA", "9/18/82", "Mexico", "188", "Deportivo Toluca FC", "Goalkeeper", "14", "FALSE"]}
+{"null": ["346763", "ALIREZA HAGHIGHI", "ALIREZA", "HAGHIGHI", "5/2/88", "Iran", "193", "Sporting Covilha", "Goalkeeper", "4", "FALSE"]}
+{"null": ["379886", "ALIREZA JAHAN BAKHSH", "ALIREZA", "JAHAN BAKHSH", "8/11/93", "Iran", "181", "NEC Nijmegen", "Forward", "5", "FALSE"]}
+{"null": ["355023", "ALLAN NYOM", "ALLAN", "NYOM", "5/10/88", "Cameroon", "170", "Granada CF", "Defender", "9", "FALSE"]}
+{"null": ["286259", "ALVARO GONZALEZ", "ALVARO", "GONZALEZ", "10/29/84", "Uruguay", "175", "SS Lazio", "Midfielder", "42", "FALSE"]}
+{"null": ["229502", "ALVARO PEREIRA", "ALVARO", "PEREIRA", "11/28/85", "Uruguay", "182", "Sao Paulo FC", "Midfielder", "56", "FALSE"]}
+{"null": ["213124", "AMIRHOSSEIN SADEGHI", "AMIRHOSSEIN", "SADEGHI", "9/6/81", "Iran", "185", "Esteghlal Tehran FC", "Defender", "14", "FALSE"]}
+{"null": ["237949", "ANDRANIK TIMOTIAN", "ANDRANIK", "TIMOTIAN", "3/6/83", "Iran", "178", "Esteghlal Tehran FC", "Midfielder", "77", "FALSE"]}
+{"null": ["375453", "ANDRE ALMEIDA", "ANDRE", "ALMEIDA", "9/10/90", "Portugal", "185", "SL Benfica", "Defender", "3", "FALSE"]}
+{"null": ["294620", "ANDRE AYEW", "ANDRE", "AYEW", "12/17/89", "Ghana", "175", "Olympique Marseille", "Midfielder", "47", "FALSE"]}
+{"null": ["306548", "ANDRE SCHUERRLE", "ANDRE", "SCHUERRLE", "11/6/90", "Germany", "184", "Chelsea FC", "Forward", "32", "FALSE"]}
+{"null": ["214377", "ANDREA BARZAGLI", "ANDREA", "BARZAGLI", "5/8/81", "Italy", "186", "Juventus FC", "Defender", "47", "FALSE"]}
+{"null": ["177876", "ANDREA PIRLO", "ANDREA", "PIRLO", "5/19/79", "Italy", "177", "Juventus FC", "Midfielder", "108", "FALSE"]}
+{"null": ["362649", "ANDREAS SAMARIS", "ANDREAS", "SAMARIS", "6/13/89", "Greece", "190", "Olympiacos Piraeus FC", "Midfielder", "4", "FALSE"]}
+{"null": ["251352", "ANDRES GUARDADO", "ANDRES", "GUARDADO", "9/28/86", "Mexico", "167", "Bayer 04 Leverkusen", "Defender", "101", "FALSE"]}
+{"null": ["183857", "ANDRES INIESTA", "ANDRES", "INIESTA", "5/11/84", "Spain", "170", "FC Barcelona", "Midfielder", "96", "FALSE"]}
+{"null": ["358893", "ANDREY ESHCHENKO", "ANDREY", "ESHCHENKO", "2/9/84", "Russia", "177", "FC Anzhi Makhachkala", "Defender", "11", "FALSE"]}
+{"null": ["379985", "ANDREY SEMENOV", "ANDREY", "SEMENOV", "3/24/89", "Russia", "191", "FC Terek Grozny", "Defender", "1", "FALSE"]}
+{"null": ["330693", "ANDY NAJAR", "ANDY", "NAJAR", "3/16/93", "Honduras", "170", "RSC Anderlecht", "Midfielder", "17", "FALSE"]}
+{"null": ["374529", "ANEL HADZIC", "ANEL", "HADZIC", "8/16/89", "Bosnia & Herzegovina", "184", "SK Sturm Graz", "Midfielder", "2", "FALSE"]}
+{"null": ["266800", "ANGEL DI MARIA", "ANGEL", "DI MARIA", "2/14/88", "Argentina", "178", "Real Madrid CF", "Midfielder", "45", "FALSE"]}
+{"null": ["369058", "ANTE REBIC", "ANTE", "REBIC", "9/21/93", "Croatia", "185", "ACF Fiorentina", "Forward", "4", "FALSE"]}
+{"null": ["216006", "ANTHONY VANDEN BORRE", "ANTHONY", "VANDEN BORRE", "10/24/87", "Belgium", "185", "RSC Anderlecht", "Defender", "25", "FALSE"]}
+{"null": ["336435", "ANTOINE GRIEZMANN", "ANTOINE", "GRIEZMANN", "3/21/91", "France", "175", "Real Sociedad", "Forward", "3", "FALSE"]}
+{"null": ["298662", "ANTONIO CANDREVA", "ANTONIO", "CANDREVA", "2/28/87", "Italy", "180", "SS Lazio", "Midfielder", "19", "FALSE"]}
+{"null": ["177927", "ANTONIO CASSANO", "ANTONIO", "CASSANO", "7/12/82", "Italy", "175", "Parma FC", "Forward", "36", "FALSE"]}
+{"null": ["202544", "ANTONIO VALENCIA", "ANTONIO", "VALENCIA", "8/4/85", "Ecuador", "180", "Manchester United FC", "Midfielder", "70", "TRUE"]}
+{"null": ["184616", "ARJEN ROBBEN", "ARJEN", "ROBBEN", "1/23/84", "Netherlands", "180", "FC Bayern Muenchen", "Forward", "74", "FALSE"]}
+{"null": ["367347", "ARON JOHANNSSON", "ARON", "JOHANNSSON", "11/10/90", "USA", "182", "AZ Alkmaar", "Forward", "8", "FALSE"]}
+{"null": ["198489", "ARTHUR BOKA", "ARTHUR", "BOKA", "4/2/83", "Ivory Coast", "166", "VfB Stuttgart", "Defender", "77", "FALSE"]}
+{"null": ["267543", "ARTURO VIDAL", "ARTURO", "VIDAL", "5/22/87", "Chile", "178", "Juventus FC", "Midfielder", "53", "FALSE"]}
+{"null": ["208353", "ASAMOAH GYAN", "ASAMOAH", "GYAN", "11/22/85", "Ghana", "186", "Al Ain FC", "Forward", "77", "TRUE"]}
+{"null": ["196812", "ASHKAN DEJAGAH", "ASHKAN", "DEJAGAH", "7/5/86", "Iran", "182", "Fulham FC", "Forward", "13", "FALSE"]}
+{"null": ["358097", "ASMIR AVDUKIC", "ASMIR", "AVDUKIC", "5/13/81", "Bosnia & Herzegovina", "190", "FK Borac Banja Luka", "Goalkeeper", "3", "FALSE"]}
+{"null": ["230121", "ASMIR BEGOVIC", "ASMIR", "BEGOVIC", "6/20/87", "Bosnia & Herzegovina", "198", "Stoke City FC", "Goalkeeper", "30", "FALSE"]}
+{"null": ["268474", "ATSUTO UCHIDA", "ATSUTO", "UCHIDA", "3/27/88", "Japan", "176", "FC Schalke 04", "Defender", "67", "FALSE"]}
+{"null": ["298892", "AUGUSTO FERNANDEZ", "AUGUSTO", "FERNANDEZ", "4/10/86", "Argentina", "177", "Celta Vigo", "Midfielder", "7", "FALSE"]}
+{"null": ["278732", "AURELIEN CHEDJOU", "AURELIEN", "CHEDJOU", "6/20/85", "Cameroon", "185", "Galatasaray SK", "Defender", "29", "FALSE"]}
+{"null": ["184856", "AUSTINE EJIDE", "AUSTINE", "EJIDE", "4/8/84", "Nigeria", "186", "Hapoel Beer Sheva FC", "Goalkeeper", "31", "FALSE"]}
+{"null": ["359997", "AVDIJA VRSAJEVIC", "AVDIJA", "VRSAJEVIC", "3/6/86", "Bosnia & Herzegovina", "182", "HNK Hajduk Split", "Midfielder", "13", "FALSE"]}
+{"null": ["290821", "AXEL WITSEL", "AXEL", "WITSEL", "1/12/89", "Belgium", "183", "FC Zenit St. Petersburg", "Midfielder", "48", "FALSE"]}
+{"null": ["356711", "AZUBUIKE EGWUEKWE", "AZUBUIKE", "EGWUEKWE", "7/16/89", "Nigeria", "195", "Warri Wolves FC", "Defender", "31", "FALSE"]}
+{"null": ["254141", "BACARY SAGNA", "BACARY", "SAGNA", "2/14/83", "France", "175", "Arsenal FC", "Defender", "40", "FALSE"]}
+{"null": ["379165", "BAILEY WRIGHT", "BAILEY", "WRIGHT", "7/28/92", "Australia", "184", "Preston North End FC", "Defender", "0", "FALSE"]}
+{"null": ["346731", "BAKHTIAR RAHMANI", "BAKHTIAR", "RAHMANI", "9/23/91", "Iran", "179", "Foolad Khuzestan FC", "Midfielder", "3", "FALSE"]}
+{"null": ["196752", "BASTIAN SCHWEINSTEIGER", "BASTIAN", "SCHWEINSTEIGER", "8/1/84", "Germany", "183", "FC Bayern Muenchen", "Midfielder", "101", "FALSE"]}
+{"null": ["253999", "BEN FOSTER", "BEN", "FOSTER", "4/3/83", "England", "193", "West Bromwich Albion FC", "Goalkeeper", "6", "FALSE"]}
+{"null": ["379164", "BEN HALLORAN", "BEN", "HALLORAN", "6/14/92", "Australia", "180", "Fortuna Duesseldorf", "Forward", "1", "FALSE"]}
+{"null": ["311148", "BENEDIKT HOEWEDES", "BENEDIKT", "HOEWEDES", "2/29/88", "Germany", "187", "FC Schalke 04", "Defender", "20", "FALSE"]}
+{"null": ["296118", "BENJAMIN MOUKANDJO", "BENJAMIN", "MOUKANDJO", "11/12/88", "Cameroon", "178", "AS Nancy", "Forward", "16", "FALSE"]}
+{"null": ["306180", "BENOIT ASSOU EKOTTO", "BENOIT", "ASSOU EKOTTO", "3/24/84", "Cameroon", "178", "Queens Park Rangers FC", "Defender", "21", "FALSE"]}
+{"null": ["356669", "BERNARD DUARTE", "BERNARD", "DUARTE", "9/8/92", "Brazil", "166", "Shakhtar Donetsk", "Forward", "10", "FALSE"]}
+{"null": ["214404", "BETO BASTOS", "BETO", "BASTOS", "5/1/82", "Portugal", "183", "Sevilla FC", "Goalkeeper", "7", "FALSE"]}
+{"null": ["358014", "BLAISE MATUIDI", "BLAISE", "MATUIDI", "4/9/87", "France", "175", "Paris Saint-Germain FC", "Midfielder", "22", "FALSE"]}
+{"null": ["216646", "BLERIM DZEMAILI", "BLERIM", "DZEMAILI", "4/12/86", "Switzerland", "179", "SSC Napoli", "Midfielder", "34", "FALSE"]}
+{"null": ["237071", "BONIEK GARCIA", "BONIEK", "GARCIA", "9/4/84", "Honduras", "176", "Houston Dynamo", "Midfielder", "90", "FALSE"]}
+{"null": ["178958", "BOUBACAR BARRY", "BOUBACAR", "BARRY", "12/30/79", "Ivory Coast", "180", "KSC Lokeren", "Goalkeeper", "76", "FALSE"]}
+{"null": ["181951", "BRAD DAVIS", "BRAD", "DAVIS", "11/8/81", "USA", "180", "Houston Dynamo", "Midfielder", "16", "FALSE"]}
+{"null": ["276139", "BRAD GUZAN", "BRAD", "GUZAN", "9/9/84", "USA", "193", "Aston Villa FC", "Goalkeeper", "25", "FALSE"]}
+{"null": ["339551", "BRAYAN BECKELES", "BRAYAN", "BECKELES", "11/28/85", "Honduras", "186", "CD Olimpia", "Defender", "23", "FALSE"]}
+{"null": ["210213", "BRUNO ALVES", "BRUNO", "ALVES", "11/27/81", "Portugal", "187", "Fenerbahce SK", "Defender", "71", "FALSE"]}
+{"null": ["358736", "BRUNO MARTINS INDI", "BRUNO", "MARTINS INDI", "2/8/92", "Netherlands", "186", "Feyenoord Rotterdam", "Defender", "15", "FALSE"]}
+{"null": ["214876", "BRYAN RUIZ", "BRYAN", "RUIZ", "8/18/85", "Costa Rica", "187", "PSV Eindhoven", "Forward", "62", "TRUE"]}
+{"null": ["360642", "CAMILO VARGAS", "CAMILO", "VARGAS", "3/9/89", "Columbia", "185", "Independiente Santa Fe", "Goalkeeper", "0", "FALSE"]}
+{"null": ["239237", "CARL MEDJANI", "CARL", "MEDJANI", "5/15/85", "Algeria", "180", "Valenciennes FC", "Defender", "25", "FALSE"]}
+{"null": ["271414", "CARLO COSTLY", "CARLO", "COSTLY", "7/18/82", "Honduras", "190", "Real Espana", "Forward", "68", "FALSE"]}
+{"null": ["349512", "CARLOS BACCA", "CARLOS", "BACCA", "9/8/86", "Columbia", "181", "Sevilla FC", "Forward", "10", "FALSE"]}
+{"null": ["229436", "CARLOS CARMONA", "CARLOS", "CARMONA", "2/21/87", "Chile", "179", "Atalanta Bergamo", "Midfielder", "44", "FALSE"]}
+{"null": ["332827", "CARLOS GRUEZO", "CARLOS", "GRUEZO", "4/19/95", "Ecuador", "171", "VfB Stuttgart", "Midfielder", "2", "FALSE"]}
+{"null": ["303394", "CARLOS PENA", "CARLOS", "PENA", "3/29/90", "Mexico", "176", "Club Leon", "Midfielder", "14", "FALSE"]}
+{"null": ["218253", "CARLOS SALCIDO", "CARLOS", "SALCIDO", "4/2/80", "Mexico", "176", "Tigres UANL", "Defender", "120", "FALSE"]}
+{"null": ["280487", "CARLOS SANCHEZ", "CARLOS", "SANCHEZ", "2/6/86", "Columbia", "182", "Elche CF", "Midfielder", "43", "FALSE"]}
+{"null": ["217117", "CARLOS VALDES", "CARLOS", "VALDES", "5/22/85", "Columbia", "189", "CA San Lorenzo de Almagro", "Defender", "13", "FALSE"]}
+{"null": ["380060", "CEDRIC DJEUGOUE", "CEDRIC", "DJEUGOUE", "8/28/92", "Cameroon", "175", "Coton Sport FC", "Defender", "3", "FALSE"]}
+{"null": ["356166", "CEDRIC SI MOHAMMED", "CEDRIC", "SI MOHAMMED", "1/9/85", "Algeria", "182", "CS Constantine", "Goalkeeper", "1", "FALSE"]}
+{"null": ["236530", "CELSO BORGES", "CELSO", "BORGES", "5/27/88", "Costa Rica", "184", "AIK Solna", "Midfielder", "61", "FALSE"]}
+{"null": ["270948", "CESAR AZPILICUETA", "CESAR", "AZPILICUETA", "8/28/89", "Spain", "178", "Chelsea FC", "Midfielder", "6", "FALSE"]}
+{"null": ["200179", "CESC FABREGAS", "CESC", "FABREGAS", "5/4/87", "Spain", "175", "FC Barcelona", "Midfielder", "88", "FALSE"]}
+{"null": ["318150", "CHARLES ARANGUIZ", "CHARLES", "ARANGUIZ", "4/17/89", "Chile", "171", "SC Internacional", "Midfielder", "20", "FALSE"]}
+{"null": ["216990", "CHARLES ITANDJE", "CHARLES", "ITANDJE", "11/2/82", "Cameroon", "185", "Konyaspor", "Goalkeeper", "9", "FALSE"]}
+{"null": ["182479", "CHIGOZIE AGBIM", "CHIGOZIE", "AGBIM", "11/28/84", "Nigeria", "187", "Enugu Rangers FC", "Goalkeeper", "14", "FALSE"]}
+{"null": ["356748", "CHRIS SMALLING", "CHRIS", "SMALLING", "11/22/89", "England", "194", "Manchester United FC", "Defender", "11", "FALSE"]}
+{"null": ["339508", "CHRIS WONDOLOWSKI", "CHRIS", "WONDOLOWSKI", "1/28/83", "USA", "182", "San Jose Earthquakes", "Forward", "19", "FALSE"]}
+{"null": ["355997", "CHRISTIAN ATSU", "CHRISTIAN", "ATSU", "1/10/92", "Ghana", "165", "Vitesse Arnheim", "Midfielder", "22", "FALSE"]}
+{"null": ["183796", "CHRISTIAN BOLANOS", "CHRISTIAN", "BOLANOS", "5/17/84", "Costa Rica", "178", "FC Kobenhavn", "Midfielder", "54", "FALSE"]}
+{"null": ["380069", "CHRISTOPH KRAMER", "CHRISTOPH", "KRAMER", "2/19/91", "Germany", "189", "Borussia Moenchengladbach", "Midfielder", "2", "FALSE"]}
+{"null": ["306780", "CIRO IMMOBILE", "CIRO", "IMMOBILE", "2/20/90", "Italy", "184", "Torino FC", "Forward", "2", "FALSE"]}
+{"null": ["202650", "CLAUDIO BRAVO", "CLAUDIO", "BRAVO", "4/13/83", "Chile", "185", "Real Sociedad", "Goalkeeper", "79", "TRUE"]}
+{"null": ["298664", "CLAUDIO MARCHISIO", "CLAUDIO", "MARCHISIO", "1/19/86", "Italy", "179", "Juventus FC", "Midfielder", "43", "FALSE"]}
+{"null": ["336434", "CLEMENT GRENIER", "CLEMENT", "GRENIER", "1/7/91", "France", "186", "Olympique Lyonnais", "Midfielder", "5", "FALSE"]}
+{"null": ["207851", "CLINT DEMPSEY", "CLINT", "DEMPSEY", "3/9/83", "USA", "185", "Seattle Sounders FC", "Forward", "103", "TRUE"]}
+{"null": ["240718", "CONSTANT DJAKPA", "CONSTANT", "DJAKPA", "10/17/86", "Ivory Coast", "177", "Eintracht Frankfurt", "Defender", "4", "FALSE"]}
+{"null": ["279417", "CRISTHIAN NOBOA", "CRISTHIAN", "NOBOA", "4/9/85", "Ecuador", "181", "FC Dynamo Moscow", "Midfielder", "41", "FALSE"]}
+{"null": ["229506", "CRISTHIAN STUANI", "CRISTHIAN", "STUANI", "10/12/86", "Uruguay", "186", "RCD Espanyol", "Forward", "9", "FALSE"]}
+{"null": ["307026", "CRISTIAN GAMBOA", "CRISTIAN", "GAMBOA", "10/24/89", "Costa Rica", "175", "Rosenborg BK", "Defender", "25", "FALSE"]}
+{"null": ["216567", "CRISTIAN RODRIGUEZ", "CRISTIAN", "RODRIGUEZ", "9/30/85", "Uruguay", "178", "Atletico Madrid", "Midfielder", "72", "FALSE"]}
+{"null": ["200209", "CRISTIAN ZAPATA", "CRISTIAN", "ZAPATA", "9/30/86", "Columbia", "187", "AC Milan", "Defender", "23", "FALSE"]}
+{"null": ["201200", "CRISTIANO RONALDO", "CRISTIANO", "RONALDO", "2/5/85", "Portugal", "185", "Real Madrid CF", "Forward", "110", "TRUE"]}
+{"null": ["228624", "CRISTOPHER TOSELLI", "CRISTOPHER", "TOSELLI", "6/15/88", "Chile", "181", "CD Universidad Catolica", "Goalkeeper", "4", "FALSE"]}
+{"null": ["319432", "DALEY BLIND", "DALEY", "BLIND", "3/9/90", "Netherlands", "180", "AFC Ajax", "Defender", "11", "FALSE"]}
+{"null": ["175498", "DAMARCUS BEASLEY", "DAMARCUS", "BEASLEY", "5/24/82", "USA", "170", "Puebla FC", "Defender", "115", "FALSE"]}
+{"null": ["190962", "DANI ALVES", "DANI", "ALVES", "5/6/83", "Brazil", "175", "FC Barcelona", "Defender", "74", "FALSE"]}
+{"null": ["199160", "DANIEL CAMBRONERO", "DANIEL", "CAMBRONERO", "1/8/86", "Costa Rica", "181", "CS Herediano", "Goalkeeper", "2", "FALSE"]}
+{"null": ["379888", "DANIEL DAVARI", "DANIEL", "DAVARI", "1/6/88", "Iran", "193", "Eintracht Braunschweig", "Goalkeeper", "4", "FALSE"]}
+{"null": ["269071", "DANIEL OPARE", "DANIEL", "OPARE", "10/18/90", "Ghana", "172", "Standard Liege", "Defender", "16", "FALSE"]}
+{"null": ["306532", "DANIEL STURRIDGE", "DANIEL", "STURRIDGE", "9/1/89", "England", "179", "Liverpool FC", "Forward", "11", "FALSE"]}
+{"null": ["375523", "DANIEL VAN BUYTEN", "DANIEL", "VAN BUYTEN", "2/7/78", "Belgium", "196", "FC Bayern Muenchen", "Defender", "79", "FALSE"]}
+{"null": ["209119", "DANIELE DE ROSSI", "DANIELE", "DE ROSSI", "7/24/83", "Italy", "182", "AS Roma", "Midfielder", "94", "FALSE"]}
+{"null": ["210702", "DANIJEL PRANJIC", "DANIJEL", "PRANJIC", "12/2/81", "Croatia", "172", "Panathinaikos FC", "Defender", "49", "FALSE"]}
+{"null": ["299887", "DANIJEL SUBASIC", "DANIJEL", "SUBASIC", "10/27/84", "Croatia", "191", "AS Monaco", "Goalkeeper", "6", "FALSE"]}
+{"null": ["274034", "DANNY WELBECK", "DANNY", "WELBECK", "11/26/90", "England", "184", "Manchester United FC", "Forward", "22", "FALSE"]}
+{"null": ["367913", "DANTE SANTOS", "DANTE", "SANTOS", "10/18/83", "Brazil", "189", "FC Bayern Muenchen", "Defender", "12", "FALSE"]}
+{"null": ["200259", "DANY NOUNKEU", "DANY", "NOUNKEU", "4/11/86", "Cameroon", "183", "Besiktas JK", "Defender", "15", "FALSE"]}
+{"null": ["210704", "DARIJO SRNA", "DARIJO", "SRNA", "5/1/82", "Croatia", "182", "Shakhtar Donetsk", "Defender", "111", "TRUE"]}
+{"null": ["290800", "DARIO VIDOSIC", "DARIO", "VIDOSIC", "4/8/87", "Australia", "185", "FC Sion", "Midfielder", "22", "FALSE"]}
+{"null": ["319428", "DARYL JANMAAT", "DARYL", "JANMAAT", "7/22/89", "Netherlands", "186", "Feyenoord Rotterdam", "Defender", "15", "FALSE"]}
+{"null": ["269859", "DAVID DE GEA", "DAVID", "DE GEA", "11/7/90", "Spain", "190", "Manchester United FC", "Goalkeeper", "0", "FALSE"]}
+{"null": ["271043", "DAVID LUIZ", "DAVID", "LUIZ", "4/22/87", "Brazil", "189", "Chelsea FC", "Defender", "35", "FALSE"]}
+{"null": ["228686", "DAVID OSPINA", "DAVID", "OSPINA", "8/31/88", "Columbia", "183", "OGC Nice", "Goalkeeper", "43", "FALSE"]}
+{"null": ["200176", "DAVID SILVA", "DAVID", "SILVA", "1/8/86", "Spain", "170", "Manchester City FC", "Midfielder", "79", "FALSE"]}
+{"null": ["229884", "DAVID VILLA", "DAVID", "VILLA", "12/3/81", "Spain", "175", "Atletico Madrid", "Forward", "95", "FALSE"]}
+{"null": ["368973", "DEANDRE YEDLIN", "DEANDRE", "YEDLIN", "7/9/93", "USA", "175", "Seattle Sounders FC", "Defender", "4", "FALSE"]}
+{"null": ["312432", "DEJAN LOVREN", "DEJAN", "LOVREN", "7/5/89", "Croatia", "188", "Southampton FC", "Defender", "24", "FALSE"]}
+{"null": ["358049", "DENIS GLUSHAKOV", "DENIS", "GLUSHAKOV", "1/27/87", "Russia", "182", "FC Spartak Moscow", "Midfielder", "26", "FALSE"]}
+{"null": ["212306", "DIDIER DROGBA", "DIDIER", "DROGBA", "3/11/78", "Ivory Coast", "180", "Galatasaray SK", "Forward", "100", "TRUE"]}
+{"null": ["176971", "DIDIER ZOKORA", "DIDIER", "ZOKORA", "12/14/80", "Ivory Coast", "183", "Trabzonspor", "Defender", "119", "FALSE"]}
+{"null": ["367555", "DIE SEREY", "DIE", "SEREY", "11/7/84", "Ivory Coast", "179", "FC Basel", "Midfielder", "6", "FALSE"]}
+{"null": ["196633", "DIEGO BENAGLIO", "DIEGO", "BENAGLIO", "9/8/83", "Switzerland", "195", "VfL Wolfsburg", "Goalkeeper", "57", "FALSE"]}
+{"null": ["336837", "DIEGO CALVO", "DIEGO", "CALVO", "3/25/91", "Costa Rica", "178", "Valerenga IF", "Midfielder", "9", "FALSE"]}
+{"null": ["367920", "DIEGO COSTA", "DIEGO", "COSTA", "10/7/88", "Spain", "188", "Atletico Madrid", "Forward", "3", "FALSE"]}
+{"null": ["189259", "DIEGO FORLAN", "DIEGO", "FORLAN", "5/19/79", "Uruguay", "181", "Cerezo Osaka", "Forward", "109", "FALSE"]}
+{"null": ["229499", "DIEGO GODIN", "DIEGO", "GODIN", "2/16/86", "Uruguay", "185", "Atletico Madrid", "Defender", "76", "FALSE"]}
+{"null": ["239433", "DIEGO LUGANO", "DIEGO", "LUGANO", "11/2/80", "Uruguay", "188", "West Bromwich Albion FC", "Defender", "93", "TRUE"]}
+{"null": ["185359", "DIEGO PEREZ", "DIEGO", "PEREZ", "5/18/80", "Uruguay", "176", "Bologna FC", "Midfielder", "89", "FALSE"]}
+{"null": ["308082", "DIEGO REYES", "DIEGO", "REYES", "9/19/92", "Mexico", "189", "FC Porto", "Defender", "14", "FALSE"]}
+{"null": ["215513", "DIMITRIOS SALPINGIDIS", "DIMITRIOS", "SALPINGIDIS", "8/18/81", "Greece", "171", "PAOK FC", "Forward", "75", "FALSE"]}
+{"null": ["217313", "DIRK KUYT", "DIRK", "KUYT", "7/22/80", "Netherlands", "184", "Fenerbahce SK", "Forward", "98", "FALSE"]}
+{"null": ["379911", "DIVOCK ORIGI", "DIVOCK", "ORIGI", "4/18/95", "Belgium", "185", "Lille OSC", "Forward", "1", "FALSE"]}
+{"null": ["323339", "DJAMEL MESBAH", "DJAMEL", "MESBAH", "10/9/84", "Algeria", "179", "AS Livorno", "Defender", "26", "FALSE"]}
+{"null": ["300237", "DMITRY KOMBAROV", "DMITRY", "KOMBAROV", "1/22/87", "Russia", "182", "FC Spartak Moscow", "Defender", "22", "FALSE"]}
+{"null": ["299896", "DOMAGOJ VIDA", "DOMAGOJ", "VIDA", "4/29/89", "Croatia", "184", "FC Dynamo Kyiv", "Defender", "22", "FALSE"]}
+{"null": ["213871", "DONIS ESCOBER", "DONIS", "ESCOBER", "2/3/81", "Honduras", "180", "CD Olimpia", "Goalkeeper", "20", "FALSE"]}
+{"null": ["358114", "DRIES MERTENS", "DRIES", "MERTENS", "5/6/87", "Belgium", "164", "SSC Napoli", "Midfielder", "24", "FALSE"]}
+{"null": ["368009", "EBENEZER ODUNLAMI", "EBENEZER", "ODUNLAMI", "4/30/91", "Nigeria", "187", "Sunshine Stars FC", "Defender", "11", "FALSE"]}
+{"null": ["296312", "EDDER DELGADO", "EDDER", "DELGADO", "11/20/86", "Honduras", "179", "Real Espana", "Midfielder", "26", "FALSE"]}
+{"null": ["273996", "EDEN HAZARD", "EDEN", "HAZARD", "1/7/91", "Belgium", "172", "Chelsea FC", "Midfielder", "45", "FALSE"]}
+{"null": ["359436", "EDER LOPES", "EDER", "LOPES", "12/22/87", "Portugal", "190", "Sporting Braga", "Forward", "7", "FALSE"]}
+{"null": ["369546", "EDER BALANTA", "EDER", "BALANTA", "2/28/93", "Columbia", "181", "CA River Plate", "Defender", "2", "FALSE"]}
+{"null": ["336791", "EDGAR SALLI", "EDGAR", "SALLI", "8/17/92", "Cameroon", "163", "RC Lens", "Midfielder", "8", "FALSE"]}
+{"null": ["300409", "EDIN DZEKO", "EDIN", "DZEKO", "3/17/86", "Bosnia & Herzegovina", "192", "Manchester City FC", "Forward", "62", "FALSE"]}
+{"null": ["365747", "EDIN VISCA", "EDIN", "VISCA", "2/17/90", "Bosnia & Herzegovina", "172", "Istanbul BBSK", "Forward", "10", "FALSE"]}
+{"null": ["267834", "EDINSON CAVANI", "EDINSON", "CAVANI", "2/14/87", "Uruguay", "188", "Paris Saint-Germain FC", "Forward", "61", "FALSE"]}
+{"null": ["178842", "EDISON MENDEZ", "EDISON", "MENDEZ", "3/16/79", "Ecuador", "175", "Independiente Santa Fe", "Midfielder", "110", "FALSE"]}
+{"null": ["214384", "EDUARDO DA SILVA", "EDUARDO", "DA SILVA", "2/25/83", "Croatia", "177", "Shakhtar Donetsk", "Forward", "62", "FALSE"]}
+{"null": ["299066", "EDUARDO CARVALHO", "EDUARDO", "CARVALHO", "9/19/82", "Portugal", "187", "Sporting Braga", "Goalkeeper", "33", "FALSE"]}
+{"null": ["270301", "EDUARDO VARGAS", "EDUARDO", "VARGAS", "11/20/89", "Chile", "175", "Valencia CF", "Forward", "29", "FALSE"]}
+{"null": ["273291", "EFE AMBROSE", "EFE", "AMBROSE", "10/18/88", "Nigeria", "190", "Celtic FC", "Defender", "36", "FALSE"]}
+{"null": ["286238", "EGIDIO AREVALO", "EGIDIO", "AREVALO", "1/1/82", "Uruguay", "168", "CA Monarcas Morelia", "Midfielder", "54", "FALSE"]}
+{"null": ["288961", "EHSAN HAJI SAFI", "EHSAN", "HAJI SAFI", "2/25/90", "Iran", "177", "Sepahan FC", "Midfielder", "58", "FALSE"]}
+{"null": ["198117", "EIJI KAWASHIMA", "EIJI", "KAWASHIMA", "3/20/83", "Japan", "185", "Standard Liege", "Goalkeeper", "56", "FALSE"]}
+{"null": ["296994", "EL ARABI SOUDANI", "EL", "ARABI SOUDANI", "11/25/87", "Algeria", "177", "GNK Dinamo Zagreb", "Forward", "21", "FALSE"]}
+{"null": ["319340", "ELIAQUIM MANGALA", "ELIAQUIM", "MANGALA", "2/13/91", "France", "188", "FC Porto", "Defender", "3", "FALSE"]}
+{"null": ["230117", "EMILIO IZAGUIRRE", "EMILIO", "IZAGUIRRE", "5/10/86", "Honduras", "177", "Celtic FC", "Midfielder", "65", "FALSE"]}
+{"null": ["216069", "EMIR SPAHIC", "EMIR", "SPAHIC", "8/18/80", "Bosnia & Herzegovina", "183", "Bayer 04 Leverkusen", "Defender", "74", "TRUE"]}
+{"null": ["274946", "EMMANUEL AGYEMANG BADU", "EMMANUEL", "AGYEMANG BADU", "12/2/90", "Ghana", "173", "Udinese Calcio", "Midfielder", "47", "FALSE"]}
+{"null": ["364763", "EMMANUEL EMENIKE", "EMMANUEL", "EMENIKE", "5/10/87", "Nigeria", "182", "Fenerbahce SK", "Forward", "22", "FALSE"]}
+{"null": ["373400", "ENNER VALENCIA", "ENNER", "VALENCIA", "11/4/89", "Ecuador", "179", "CF Pachuca", "Forward", "9", "FALSE"]}
+{"null": ["310048", "ENOH EYONG", "ENOH", "EYONG", "3/23/86", "Cameroon", "180", "Antalyaspor AS", "Midfielder", "35", "FALSE"]}
+{"null": ["316997", "ENZO PEREZ", "ENZO", "PEREZ", "2/22/86", "Argentina", "177", "SL Benfica", "Midfielder", "6", "FALSE"]}
+{"null": ["312316", "ERIC CHOUPO MOTING", "ERIC", "CHOUPO MOTING", "3/23/89", "Cameroon", "190", "FSV Mainz 05", "Forward", "26", "FALSE"]}
+{"null": ["379952", "ERIK DURM", "ERIK", "DURM", "5/12/92", "Germany", "183", "Borussia Dortmund", "Defender", "1", "FALSE"]}
+{"null": ["372989", "ERMIN BICAKCIC", "ERMIN", "BICAKCIC", "1/24/90", "Bosnia & Herzegovina", "185", "Eintracht Braunschweig", "Defender", "7", "FALSE"]}
+{"null": ["356162", "ESSEID BELKALEM", "ESSEID", "BELKALEM", "1/1/89", "Algeria", "190", "Watford FC", "Defender", "13", "FALSE"]}
+{"null": ["313874", "ESTEBAN PAREDES", "ESTEBAN", "PAREDES", "8/1/80", "Chile", "179", "CSD Colo-Colo", "Forward", "34", "FALSE"]}
+{"null": ["209168", "EUGENE GALEKOVIC", "EUGENE", "GALEKOVIC", "6/12/81", "Australia", "186", "Adelaide United FC", "Goalkeeper", "8", "FALSE"]}
+{"null": ["349592", "EUGENIO MENA", "EUGENIO", "MENA", "7/18/88", "Chile", "174", "Santos FC", "Defender", "24", "FALSE"]}
+{"null": ["200130", "EZEQUIEL GARAY", "EZEQUIEL", "GARAY", "10/10/86", "Argentina", "186", "SL Benfica", "Defender", "18", "FALSE"]}
+{"null": ["229392", "EZEQUIEL LAVEZZI", "EZEQUIEL", "LAVEZZI", "5/3/85", "Argentina", "173", "Paris Saint-Germain FC", "Forward", "29", "FALSE"]}
+{"null": ["311174", "FABIAN JOHNSON", "FABIAN", "JOHNSON", "12/11/87", "USA", "182", "TSG 1899 Hoffenheim", "Defender", "21", "FALSE"]}
+{"null": ["281252", "FABIAN ORELLANA", "FABIAN", "ORELLANA", "1/27/86", "Chile", "168", "Celta Vigo", "Forward", "25", "FALSE"]}
+{"null": ["356411", "FABIAN SCHAER", "FABIAN", "SCHAER", "12/20/91", "Switzerland", "186", "FC Basel", "Defender", "6", "FALSE"]}
+{"null": ["269784", "FABIO COENTRAO", "FABIO", "COENTRAO", "3/11/88", "Portugal", "181", "Real Madrid CF", "Defender", "43", "FALSE"]}
+{"null": ["367396", "FABRICE OLINGA", "FABRICE", "OLINGA", "5/12/96", "Cameroon", "177", "SV Zulte Waregem", "Forward", "7", "FALSE"]}
+{"null": ["364088", "FAOUZI GHOULAM", "FAOUZI", "GHOULAM", "2/1/91", "Algeria", "184", "SSC Napoli", "Defender", "5", "FALSE"]}
+{"null": ["94918", "FARYD MONDRAGON", "FARYD", "MONDRAGON", "6/21/71", "Columbia", "191", "Deportivo Cali", "Goalkeeper", "50", "FALSE"]}
+{"null": ["376071", "FATAWU DAUDA", "FATAWU", "DAUDA", "4/6/85", "Ghana", "180", "Orlando Pirates", "Goalkeeper", "17", "FALSE"]}
+{"null": ["318034", "FEDERICO FERNANDEZ", "FEDERICO", "FERNANDEZ", "2/21/89", "Argentina", "190", "SSC Napoli", "Defender", "24", "FALSE"]}
+{"null": ["228715", "FELIPE CAICEDO", "FELIPE", "CAICEDO", "9/5/88", "Ecuador", "183", "Al Jazira SCC", "Forward", "49", "FALSE"]}
+{"null": ["349588", "FELIPE GUTIERREZ", "FELIPE", "GUTIERREZ", "10/8/90", "Chile", "175", "FC Twente", "Midfielder", "17", "FALSE"]}
+{"null": ["208016", "FERNANDINHO LUIZ ROZA", "FERNANDINHO", "LUIZ ROZA", "5/4/85", "Brazil", "179", "Manchester City FC", "Midfielder", "6", "FALSE"]}
+{"null": ["201001", "FERNANDO GAGO", "FERNANDO", "GAGO", "4/10/86", "Argentina", "178", "CA Boca Juniors", "Midfielder", "47", "FALSE"]}
+{"null": ["229498", "FERNANDO MUSLERA", "FERNANDO", "MUSLERA", "6/16/86", "Uruguay", "190", "Galatasaray SK", "Goalkeeper", "57", "FALSE"]}
+{"null": ["183864", "FERNANDO TORRES", "FERNANDO", "TORRES", "3/20/84", "Spain", "186", "Chelsea FC", "Forward", "107", "FALSE"]}
+{"null": ["375459", "FIDEL MARTINEZ", "FIDEL", "MARTINEZ", "2/15/90", "Ecuador", "176", "Club Tijuana", "Midfielder", "8", "FALSE"]}
+{"null": ["209960", "FRANCISCO RODRIGUEZ", "FRANCISCO", "RODRIGUEZ", "10/20/81", "Mexico", "191", "Club America", "Defender", "92", "FALSE"]}
+{"null": ["349582", "FRANCISCO SILVA", "FRANCISCO", "SILVA", "2/11/86", "Chile", "178", "CA Osasuna", "Midfielder", "11", "FALSE"]}
+{"null": ["248373", "FRANCK RIBERY", "FRANCK", "RIBERY", "4/7/83", "France", "175", "FC Bayern Muenchen", "Forward", "81", "FALSE"]}
+{"null": ["185385", "FRANK LAMPARD", "FRANK", "LAMPARD", "6/20/78", "England", "181", "Chelsea FC", "Midfielder", "103", "FALSE"]}
+{"null": ["362881", "FRASER FORSTER", "FRASER", "FORSTER", "3/17/88", "England", "201", "Celtic FC", "Goalkeeper", "1", "FALSE"]}
+{"null": ["233952", "FRED CHAVES GUEDES", "FRED", "CHAVES GUEDES", "10/3/83", "Brazil", "186", "Fluminense FC", "Forward", "32", "FALSE"]}
+{"null": ["200219", "FREDY GUARIN", "FREDY", "GUARIN", "6/30/86", "Columbia", "187", "FC Internazionale", "Midfielder", "48", "FALSE"]}
+{"null": ["349578", "FRICKSON ERAZO", "FRICKSON", "ERAZO", "5/5/88", "Ecuador", "189", "CR Flamengo", "Defender", "36", "FALSE"]}
+{"null": ["229450", "GABRIEL ACHILIER", "GABRIEL", "ACHILIER", "3/24/85", "Ecuador", "183", "CS Emelec", "Defender", "22", "FALSE"]}
+{"null": ["233333", "GABRIEL PALETTA", "GABRIEL", "PALETTA", "2/15/86", "Italy", "187", "Parma FC", "Defender", "2", "FALSE"]}
+{"null": ["305764", "GARY CAHILL", "GARY", "CAHILL", "12/19/85", "England", "191", "Chelsea FC", "Defender", "23", "FALSE"]}
+{"null": ["267527", "GARY MEDEL", "GARY", "MEDEL", "8/3/87", "Chile", "171", "Cardiff City FC", "Defender", "60", "FALSE"]}
+{"null": ["312116", "GASTON RAMIREZ", "GASTON", "RAMIREZ", "12/2/90", "Uruguay", "183", "Southampton FC", "Midfielder", "28", "FALSE"]}
+{"null": ["216650", "GELSON FERNANDES", "GELSON", "FERNANDES", "9/2/86", "Switzerland", "179", "SC Freiburg", "Midfielder", "47", "FALSE"]}
+{"null": ["321971", "GEOFF CAMERON", "GEOFF", "CAMERON", "7/11/85", "USA", "190", "Stoke City FC", "Defender", "26", "FALSE"]}
+{"null": ["319438", "GEORGINIO WIJNALDUM", "GEORGINIO", "WIJNALDUM", "11/11/90", "Netherlands", "175", "PSV Eindhoven", "Midfielder", "4", "FALSE"]}
+{"null": ["168832", "GEORGIOS KARAGOUNIS", "GEORGIOS", "KARAGOUNIS", "3/6/77", "Greece", "176", "Fulham FC", "Midfielder", "134", "TRUE"]}
+{"null": ["297112", "GEORGIOS SAMARAS", "GEORGIOS", "SAMARAS", "2/21/85", "Greece", "192", "Celtic FC", "Forward", "73", "FALSE"]}
+{"null": ["319298", "GEORGIOS TZAVELAS", "GEORGIOS", "TZAVELAS", "11/26/87", "Greece", "183", "PAOK FC", "Defender", "13", "FALSE"]}
+{"null": ["358869", "GEORGY SHCHENNIKOV", "GEORGY", "SHCHENNIKOV", "4/27/91", "Russia", "179", "CSKA Moscow", "Defender", "3", "FALSE"]}
+{"null": ["216973", "GERARD PIQUE", "GERARD", "PIQUE", "2/2/87", "Spain", "192", "FC Barcelona", "Defender", "60", "FALSE"]}
+{"null": ["290186", "GERVINHO YAO KOUASSI", "GERVINHO", "YAO KOUASSI", "5/27/87", "Ivory Coast", "179", "AS Roma", "Forward", "52", "FALSE"]}
+{"null": ["329737", "GHASEM HADADIFAR", "GHASEM", "HADADIFAR", "7/12/83", "Iran", "178", "Zob Ahan Isfahan FC", "Midfielder", "16", "FALSE"]}
+{"null": ["268821", "GIANCARLO GONZALEZ", "GIANCARLO", "GONZALEZ", "2/8/88", "Costa Rica", "192", "Columbus Crew", "Defender", "34", "FALSE"]}
+{"null": ["159304", "GIANLUIGI BUFFON", "GIANLUIGI", "BUFFON", "1/28/78", "Italy", "190", "Juventus FC", "Goalkeeper", "139", "TRUE"]}
+{"null": ["215274", "GIORGIO CHIELLINI", "GIORGIO", "CHIELLINI", "8/14/84", "Italy", "192", "Juventus FC", "Defender", "67", "FALSE"]}
+{"null": ["234551", "GIOVANI DOS SANTOS", "GIOVANI", "DOS SANTOS", "5/11/89", "Mexico", "179", "Villarreal CF", "Forward", "73", "FALSE"]}
+{"null": ["332293", "GIOVANNI SIO", "GIOVANNI", "SIO", "3/31/89", "Ivory Coast", "180", "FC Basel", "Forward", "7", "FALSE"]}
+{"null": ["197464", "GLEN JOHNSON", "GLEN", "JOHNSON", "8/23/84", "England", "180", "Liverpool FC", "Defender", "51", "FALSE"]}
+{"null": ["356459", "GODFREY OBOABONA", "GODFREY", "OBOABONA", "9/16/90", "Nigeria", "183", "Caykur Rizespor", "Defender", "34", "FALSE"]}
+{"null": ["261029", "GOKHAN INLER", "GOKHAN", "INLER", "6/27/84", "Switzerland", "181", "SSC Napoli", "Midfielder", "73", "TRUE"]}
+{"null": ["271550", "GONZALO HIGUAIN", "GONZALO", "HIGUAIN", "12/10/87", "Argentina", "184", "SSC Napoli", "Forward", "36", "FALSE"]}
+{"null": ["229439", "GONZALO JARA", "GONZALO", "JARA", "8/29/85", "Chile", "177", "Nottingham Forest FC", "Defender", "65", "FALSE"]}
+{"null": ["357990", "GORDON SCHILDENFELD", "GORDON", "SCHILDENFELD", "3/18/85", "Croatia", "191", "Panathinaikos FC", "Defender", "21", "FALSE"]}
+{"null": ["321736", "GOTOKU SAKAI", "GOTOKU", "SAKAI", "3/14/91", "Japan", "176", "VfB Stuttgart", "Defender", "12", "FALSE"]}
+{"null": ["360728", "GRAHAM ZUSI", "GRAHAM", "ZUSI", "8/18/86", "USA", "177", "Sporting Kansas City", "Midfielder", "22", "FALSE"]}
+{"null": ["311558", "GRANIT XHAKA", "GRANIT", "XHAKA", "9/27/92", "Switzerland", "183", "Borussia Moenchengladbach", "Midfielder", "26", "FALSE"]}
+{"null": ["215285", "GUILLERMO OCHOA", "GUILLERMO", "OCHOA", "7/13/85", "Mexico", "185", "AC Ajaccio", "Goalkeeper", "56", "FALSE"]}
+{"null": ["298676", "HA DAESUNG", "HA", "DAESUNG", "3/2/85", "South Korea", "182", "Beijing Guoan", "Midfielder", "13", "FALSE"]}
+{"null": ["274329", "HAN KOOKYOUNG", "HAN", "KOOKYOUNG", "4/19/90", "South Korea", "183", "Kashiwa Reysol", "Midfielder", "9", "FALSE"]}
+{"null": ["233167", "HARIS MEDUNJANIN", "HARIS", "MEDUNJANIN", "3/8/85", "Bosnia & Herzegovina", "188", "Gaziantepspor", "Midfielder", "35", "FALSE"]}
+{"null": ["311554", "HARIS SEFEROVIC", "HARIS", "SEFEROVIC", "2/22/92", "Switzerland", "187", "Real Sociedad", "Forward", "11", "FALSE"]}
+{"null": ["294626", "HARRISON AFFUL", "HARRISON", "AFFUL", "7/24/86", "Ghana", "168", "Esperance Sportive de Tunis", "Defender", "40", "FALSE"]}
+{"null": ["295157", "HASHEM BEIKZADEH", "HASHEM", "BEIKZADEH", "1/22/84", "Iran", "180", "Esteghlal Tehran FC", "Midfielder", "17", "FALSE"]}
+{"null": ["183882", "HASSAN YEBDA", "HASSAN", "YEBDA", "5/14/84", "Algeria", "188", "Udinese Calcio", "Midfielder", "24", "FALSE"]}
+{"null": ["329092", "HECTOR HERRERA", "HECTOR", "HERRERA", "4/19/90", "Mexico", "180", "FC Porto", "Midfielder", "12", "FALSE"]}
+{"null": ["238112", "HECTOR MORENO", "HECTOR", "MORENO", "1/17/88", "Mexico", "182", "RCD Espanyol", "Defender", "52", "FALSE"]}
+{"null": ["313805", "HEINER MORA", "HEINER", "MORA", "6/20/84", "Costa Rica", "179", "Deportivo Saprissa", "Defender", "21", "FALSE"]}
+{"null": ["187203", "HELDER POSTIGA", "HELDER", "POSTIGA", "8/2/82", "Portugal", "182", "SS Lazio", "Forward", "67", "FALSE"]}
+{"null": ["317072", "HENRI BEDIMO", "HENRI", "BEDIMO", "6/4/84", "Cameroon", "176", "Olympique Lyonnais", "Defender", "30", "FALSE"]}
+{"null": ["298613", "HENRIQUE ADRIANO BUSS", "HENRIQUE", "ADRIANO BUSS", "10/14/86", "Brazil", "186", "SSC Napoli", "Defender", "5", "FALSE"]}
+{"null": ["239424", "HERNANES VIANA LIMA ", "HERNANES", "VIANA LIMA", "5/29/85", "Brazil", "180", "FC Internazionale", "Midfielder", "24", "FALSE"]}
+{"null": ["350003", "HIROKI SAKAI", "HIROKI", "SAKAI", "4/12/90", "Japan", "185", "Hannover 96", "Defender", "17", "FALSE"]}
+{"null": ["347716", "HIROSHI KIYOTAKE", "HIROSHI", "KIYOTAKE", "11/12/89", "Japan", "172", "1. FC Nuernberg", "Forward", "25", "FALSE"]}
+{"null": ["312679", "HONG JEONGHO", "HONG", "JEONGHO", "8/12/89", "South Korea", "188", "FC Augsburg", "Defender", "24", "FALSE"]}
+{"null": ["329745", "HOSSEIN MAHINI", "HOSSEIN", "MAHINI", "9/16/86", "Iran", "182", "Perspolis FC", "Defender", "21", "FALSE"]}
+{"null": ["356466", "HOTARU YAMAGUCHI", "HOTARU", "YAMAGUCHI", "10/6/90", "Japan", "173", "Cerezo Osaka", "Midfielder", "11", "FALSE"]}
+{"null": ["214410", "HUGO ALMEIDA", "HUGO", "ALMEIDA", "5/23/84", "Portugal", "193", "Besiktas JK", "Forward", "54", "FALSE"]}
+{"null": ["356612", "HUGO CAMPAGNARO", "HUGO", "CAMPAGNARO", "6/27/80", "Argentina", "181", "FC Internazionale", "Defender", "13", "FALSE"]}
+{"null": ["297105", "HUGO LLORIS", "HUGO", "LLORIS", "12/26/86", "France", "188", "Tottenham Hotspur FC", "Goalkeeper", "56", "TRUE"]}
+{"null": ["318172", "HULK DE SOUSA", "HULK", "DE SOUSA", "7/25/86", "Brazil", "179", "FC Zenit St. Petersburg", "Forward", "34", "FALSE"]}
+{"null": ["356518", "HWANG SEOKHO", "HWANG", "SEOKHO", "6/27/89", "South Korea", "182", "Sanfrecce Hiroshima", "Defender", "3", "FALSE"]}
+{"null": ["228936", "IGNAZIO ABATE", "IGNAZIO", "ABATE", "11/12/86", "Italy", "180", "AC Milan", "Defender", "19", "FALSE"]}
+{"null": ["215017", "IGOR AKINFEEV", "IGOR", "AKINFEEV", "4/8/86", "Russia", "185", "CSKA Moscow", "Goalkeeper", "68", "FALSE"]}
+{"null": ["216438", "IGOR DENISOV", "IGOR", "DENISOV", "5/17/84", "Russia", "176", "FC Dynamo Moscow", "Midfielder", "43", "FALSE"]}
+{"null": ["176644", "IKER CASILLAS", "IKER", "CASILLAS", "5/20/81", "Spain", "185", "Real Madrid CF", "Goalkeeper", "153", "TRUE"]}
+{"null": ["358024", "IOANNIS FETFATZIDIS", "IOANNIS", "FETFATZIDIS", "12/21/90", "Greece", "164", "Genoa CFC", "Forward", "18", "FALSE"]}
+{"null": ["321731", "IOANNIS MANIATIS", "IOANNIS", "MANIATIS", "10/12/86", "Greece", "178", "Olympiacos Piraeus FC", "Midfielder", "29", "FALSE"]}
+{"null": ["371042", "ISAAC BRIZUELA", "ISAAC", "BRIZUELA", "8/28/90", "Mexico", "173", "Deportivo Toluca FC", "Midfielder", "7", "FALSE"]}
+{"null": ["354859", "ISLAM SLIMANI", "ISLAM", "SLIMANI", "6/18/88", "Algeria", "188", "Sporting CP", "Forward", "19", "FALSE"]}
+{"null": ["376360", "ISMAEL DIOMANDE", "ISMAEL", "DIOMANDE", "8/28/92", "Ivory Coast", "180", "AS Saint-Etienne", "Midfielder", "1", "FALSE"]}
+{"null": ["291329", "ISMAEL TIOTE", "ISMAEL", "TIOTE", "6/21/86", "Ivory Coast", "175", "Newcastle United FC", "Midfielder", "42", "FALSE"]}
+{"null": ["370062", "IVAN FRANJIC", "IVAN", "FRANJIC", "9/10/87", "Australia", "180", "Brisbane Roar FC", "Defender", "8", "FALSE"]}
+{"null": ["369050", "IVAN MOCINIC", "IVAN", "MOCINIC", "4/30/93", "Croatia", "180", "HNK Rijeka", "Midfielder", "0", "FALSE"]}
+{"null": ["359381", "IVAN PERISIC", "IVAN", "PERISIC", "2/2/89", "Croatia", "187", "VfL Wolfsburg", "Midfielder", "28", "FALSE"]}
+{"null": ["296633", "IVAN RAKITIC", "IVAN", "RAKITIC", "3/10/88", "Croatia", "184", "Sevilla FC", "Midfielder", "61", "FALSE"]}
+{"null": ["187258", "IVICA OLIC", "IVICA", "OLIC", "9/14/79", "Croatia", "183", "VfL Wolfsburg", "Forward", "91", "FALSE"]}
+{"null": ["356403", "IZET HAJROVIC", "IZET", "HAJROVIC", "8/4/91", "Bosnia & Herzegovina", "177", "Galatasaray SK", "Midfielder", "8", "FALSE"]}
+{"null": ["330565", "JACK WILSHERE", "JACK", "WILSHERE", "1/1/92", "England", "172", "Arsenal FC", "Midfielder", "16", "FALSE"]}
+{"null": ["313832", "JACKSON MARTINEZ", "JACKSON", "MARTINEZ", "10/3/86", "Columbia", "186", "FC Porto", "Forward", "27", "FALSE"]}
+{"null": ["349572", "JAIMEN AYOVI", "JAIMEN", "AYOVI", "2/21/88", "Ecuador", "186", "Club Tijuana", "Forward", "30", "FALSE"]}
+{"null": ["278072", "JALAL HOSSEINI", "JALAL", "HOSSEINI", "2/3/82", "Iran", "185", "Perspolis FC", "Defender", "83", "FALSE"]}
+{"null": ["295149", "JAMES HOLLAND", "JAMES", "HOLLAND", "5/15/89", "Australia", "180", "FK Austria Wien", "Midfielder", "13", "FALSE"]}
+{"null": ["207924", "JAMES MILNER", "JAMES", "MILNER", "1/4/86", "England", "175", "Manchester City FC", "Midfielder", "46", "FALSE"]}
+{"null": ["269058", "JAMES RODRIGUEZ", "JAMES", "RODRIGUEZ", "7/12/91", "Columbia", "180", "AS Monaco", "Midfielder", "21", "FALSE"]}
+{"null": ["290605", "JAMES TROISI", "JAMES", "TROISI", "7/3/88", "Australia", "177", "Melbourne Victory FC", "Midfielder", "10", "FALSE"]}
+{"null": ["290904", "JAN VERTONGHEN", "JAN", "VERTONGHEN", "4/24/87", "Belgium", "189", "Tottenham Hotspur FC", "Defender", "56", "FALSE"]}
+{"null": ["367415", "JASMIN FEJZIC", "JASMIN", "FEJZIC", "5/15/86", "Bosnia & Herzegovina", "198", "VfR Aalen", "Goalkeeper", "0", "FALSE"]}
+{"null": ["306364", "JASON DAVIDSON", "JASON", "DAVIDSON", "6/29/91", "Australia", "179", "SC Heracles Almelo", "Defender", "6", "FALSE"]}
+{"null": ["358738", "JASPER CILLESSEN", "JASPER", "CILLESSEN", "4/22/89", "Netherlands", "187", "AFC Ajax", "Goalkeeper", "7", "FALSE"]}
+{"null": ["185641", "JAVAD NEKOUNAM", "JAVAD", "NEKOUNAM", "9/7/80", "Iran", "188", "Kuwait SC", "Midfielder", "137", "TRUE"]}
+{"null": ["270714", "JAVI MARTINEZ", "JAVI", "MARTINEZ", "9/2/88", "Spain", "190", "FC Bayern Muenchen", "Midfielder", "16", "FALSE"]}
+{"null": ["350124", "JAVIER AQUINO", "JAVIER", "AQUINO", "2/11/90", "Mexico", "166", "Villarreal CF", "Midfielder", "21", "FALSE"]}
+{"null": ["228599", "JAVIER HERNANDEZ", "JAVIER", "HERNANDEZ", "6/1/88", "Mexico", "175", "Manchester United FC", "Forward", "61", "FALSE"]}
+{"null": ["182372", "JAVIER MASCHERANO", "JAVIER", "MASCHERANO", "6/8/84", "Argentina", "171", "FC Barcelona", "Midfielder", "96", "FALSE"]}
+{"null": ["209502", "JEAN BEAUSEJOUR", "JEAN", "BEAUSEJOUR", "6/1/84", "Chile", "178", "Wigan Athletic FC", "Midfielder", "60", "FALSE"]}
+{"null": ["367557", "JEAN DANIEL AKPA", "JEAN", "DANIEL AKPA", "10/11/92", "Ivory Coast", "180", "Toulouse FC", "Defender", "1", "FALSE"]}
+{"null": ["199600", "JEAN MAKOUN", "JEAN", "MAKOUN", "5/29/83", "Cameroon", "170", "Stade Rennais FC", "Midfielder", "67", "FALSE"]}
+{"null": ["184320", "JEFFERSON GALVAO", "JEFFERSON", "GALVAO", "1/2/83", "Brazil", "190", "Botafogo FR", "Goalkeeper", "9", "FALSE"]}
+{"null": ["290452", "JEFFERSON MONTERO", "JEFFERSON", "MONTERO", "9/1/89", "Ecuador", "170", "CA Monarcas Morelia", "Midfielder", "39", "FALSE"]}
+{"null": ["298681", "JEREMAIN LENS", "JEREMAIN", "LENS", "11/24/87", "Netherlands", "178", "FC Dynamo Kyiv", "Forward", "21", "FALSE"]}
+{"null": ["183893", "JERMAINE JONES", "JERMAINE", "JONES", "11/3/81", "USA", "184", "Besiktas JK", "Midfielder", "43", "FALSE"]}
+{"null": ["299442", "JEROME BOATENG", "JEROME", "BOATENG", "9/3/88", "Germany", "192", "FC Bayern Muenchen", "Defender", "38", "FALSE"]}
+{"null": ["323623", "JERRY BENGTSON", "JERRY", "BENGTSON", "4/8/87", "Honduras", "187", "New England Revolution", "Forward", "43", "FALSE"]}
+{"null": ["213953", "JERRY PALACIOS", "JERRY", "PALACIOS", "5/13/82", "Honduras", "181", "LD Alajuelense", "Midfielder", "23", "FALSE"]}
+{"null": ["330689", "JI DONGWON", "JI", "DONGWON", "5/28/91", "South Korea", "186", "FC Augsburg", "Midfielder", "27", "FALSE"]}
+{"null": ["217172", "JO SILVA", "JO", "SILVA", "3/20/87", "Brazil", "191", "Atletico Mineiro", "Forward", "16", "FALSE"]}
+{"null": ["200199", "JOAO MOUTINHO", "JOAO", "MOUTINHO", "9/8/86", "Portugal", "170", "AS Monaco", "Midfielder", "66", "FALSE"]}
+{"null": ["214407", "JOAO PEREIRA", "JOAO", "PEREIRA", "2/25/84", "Portugal", "172", "Valencia CF", "Defender", "35", "FALSE"]}
+{"null": ["305972", "JOAO ROJAS", "JOAO", "ROJAS", "6/14/89", "Ecuador", "173", "Cruz Azul FC", "Forward", "29", "FALSE"]}
+{"null": ["299956", "JOE HART", "JOE", "HART", "4/19/87", "England", "191", "Manchester City FC", "Goalkeeper", "40", "FALSE"]}
+{"null": ["307529", "JOEL CAMPBELL", "JOEL", "CAMPBELL", "6/26/92", "Costa Rica", "178", "Olympiacos Piraeus FC", "Forward", "32", "FALSE"]}
+{"null": ["320375", "JOEL MATIP", "JOEL", "MATIP", "8/8/91", "Cameroon", "194", "FC Schalke 04", "Midfielder", "22", "FALSE"]}
+{"null": ["313051", "JOEL VELTMAN", "JOEL", "VELTMAN", "1/15/92", "Netherlands", "183", "AFC Ajax", "Defender", "2", "FALSE"]}
+{"null": ["216645", "JOHAN DJOUROU", "JOHAN", "DJOUROU", "1/18/87", "Switzerland", "192", "Hamburger SV", "Defender", "44", "FALSE"]}
+{"null": ["298582", "JOHN BOYE", "JOHN", "BOYE", "4/23/87", "Ghana", "160", "Stade Rennais FC", "Defender", "29", "FALSE"]}
+{"null": ["373555", "JOHN BROOKS", "JOHN", "BROOKS", "1/28/93", "USA", "193", "Hertha BSC", "Defender", "4", "FALSE"]}
+{"null": ["234463", "JOHN OBI MIKEL", "JOHN", "OBI MIKEL", "4/22/87", "Nigeria", "188", "Chelsea FC", "Midfielder", "58", "FALSE"]}
+{"null": ["339447", "JOHNNY ACOSTA", "JOHNNY", "ACOSTA", "7/21/83", "Costa Rica", "175", "LD Alajuelense", "Defender", "26", "FALSE"]}
+{"null": ["178630", "JOHNNY HERRERA", "JOHNNY", "HERRERA", "5/9/81", "Chile", "183", "Club Universidad de Chile", "Goalkeeper", "7", "FALSE"]}
+{"null": ["298677", "JONATHAN DE GUZMAN", "JONATHAN", "DE GUZMAN", "9/13/87", "Netherlands", "174", "Swansea City AFC", "Midfielder", "10", "FALSE"]}
+{"null": ["306634", "JONATHAN MENSAH", "JONATHAN", "MENSAH", "7/13/90", "Ghana", "182", "Evian TG FC", "Defender", "25", "FALSE"]}
+{"null": ["353235", "JORDAN AYEW", "JORDAN", "AYEW", "9/11/91", "Ghana", "160", "FC Sochaux-Montbliard", "Forward", "12", "FALSE"]}
+{"null": ["356189", "JORDAN HENDERSON", "JORDAN", "HENDERSON", "6/17/90", "England", "187", "Liverpool FC", "Midfielder", "9", "FALSE"]}
+{"null": ["306954", "JORDI ALBA", "JORDI", "ALBA", "3/21/89", "Spain", "170", "FC Barcelona", "Defender", "25", "FALSE"]}
+{"null": ["358732", "JORDY CLASIE", "JORDY", "CLASIE", "6/27/91", "Netherlands", "169", "Feyenoord Rotterdam", "Midfielder", "8", "FALSE"]}
+{"null": ["230114", "JORGE CLAROS", "JORGE", "CLAROS", "1/8/86", "Honduras", "176", "CD Motagua", "Midfielder", "49", "FALSE"]}
+{"null": ["276132", "JORGE FUCILE", "JORGE", "FUCILE", "11/19/84", "Uruguay", "177", "FC Porto", "Defender", "41", "FALSE"]}
+{"null": ["181930", "JORGE GUAGUA", "JORGE", "GUAGUA", "9/28/81", "Ecuador", "179", "CS Emelec", "Defender", "58", "FALSE"]}
+{"null": ["202655", "JORGE VALDIVIA", "JORGE", "VALDIVIA", "10/19/83", "Chile", "173", "Palmeiras", "Midfielder", "56", "FALSE"]}
+{"null": ["358022", "JOSE CHOLEVAS", "JOSE", "CHOLEVAS", "6/27/84", "Greece", "184", "Olympiacos Piraeus FC", "Defender", "21", "FALSE"]}
+{"null": ["195231", "JOSE CORONA", "JOSE", "CORONA", "1/26/81", "Mexico", "178", "Cruz Azul FC", "Goalkeeper", "32", "FALSE"]}
+{"null": ["268822", "JOSE CUBERO", "JOSE", "CUBERO", "2/14/87", "Costa Rica", "178", "CS Herediano", "Midfielder", "35", "FALSE"]}
+{"null": ["229440", "JOSE FUENZALIDA", "JOSE", "FUENZALIDA", "2/22/85", "Chile", "170", "CSD Colo-Colo", "Midfielder", "23", "FALSE"]}
+{"null": ["368655", "JOSE GIMENEZ", "JOSE", "GIMENEZ", "1/20/95", "Uruguay", "184", "Atletico Madrid", "Defender", "5", "FALSE"]}
+{"null": ["349832", "JOSE MARIA BASANTA", "JOSE", "MARIA BASANTA", "4/3/84", "Argentina", "188", "CF Monterrey", "Defender", "8", "FALSE"]}
+{"null": ["245156", "JOSE ROJAS", "JOSE", "ROJAS", "6/23/83", "Chile", "174", "Club Universidad de Chile", "Defender", "18", "FALSE"]}
+{"null": ["379264", "JOSE VAZQUEZ", "JOSE", "VAZQUEZ", "3/14/88", "Mexico", "164", "Club Leon", "Midfielder", "4", "FALSE"]}
+{"null": ["178403", "JOSEPH YOBO", "JOSEPH", "YOBO", "9/6/80", "Nigeria", "185", "Norwich City FC", "Defender", "96", "FALSE"]}
+{"null": ["356399", "JOSIP DRMIC", "JOSIP", "DRMIC", "8/8/92", "Switzerland", "182", "1. FC Nuernberg", "Forward", "7", "FALSE"]}
+{"null": ["238072", "JOZY ALTIDORE", "JOZY", "ALTIDORE", "11/6/89", "USA", "185", "Sunderland AFC", "Forward", "68", "FALSE"]}
+{"null": ["296303", "JUAN CARLOS GARCIA", "JUAN", "CARLOS GARCIA", "3/8/88", "Honduras", "175", "Wigan Athletic FC", "Defender", "35", "FALSE"]}
+{"null": ["309714", "JUAN CUADRADO", "JUAN", "CUADRADO", "5/26/88", "Columbia", "178", "ACF Fiorentina", "Midfielder", "27", "FALSE"]}
+{"null": ["267811", "JUAN MATA", "JUAN", "MATA", "4/28/88", "Spain", "171", "Manchester United FC", "Forward", "33", "FALSE"]}
+{"null": ["365464", "JUAN MONTES", "JUAN", "MONTES", "12/26/85", "Honduras", "196", "CD Motagua", "Defender", "11", "FALSE"]}
+{"null": ["349576", "JUAN PAREDES", "JUAN", "PAREDES", "7/8/87", "Ecuador", "179", "Barcelona SC", "Defender", "37", "FALSE"]}
+{"null": ["356704", "JUAN QUINTERO", "JUAN", "QUINTERO", "1/18/93", "Columbia", "168", "FC Porto", "Midfielder", "4", "FALSE"]}
+{"null": ["229443", "JUAN ZUNIGA", "JUAN", "ZUNIGA", "12/14/85", "Columbia", "171", "SSC Napoli", "Defender", "49", "FALSE"]}
+{"null": ["207906", "JUANFRAN BELEN", "JUANFRAN", "BELEN", "1/9/85", "Spain", "180", "Atletico Madrid", "Defender", "7", "FALSE"]}
+{"null": ["358692", "JULIAN DRAXLER", "JULIAN", "DRAXLER", "9/20/93", "Germany", "185", "FC Schalke 04", "Midfielder", "11", "FALSE"]}
+{"null": ["369094", "JULIAN GREEN", "JULIAN", "GREEN", "6/6/95", "USA", "172", "FC Bayern Muenchen", "Midfielder", "2", "FALSE"]}
+{"null": ["179038", "JULIO CESAR", "JULIO", "CESAR", "9/3/79", "Brazil", "179", "Toronto FC", "Goalkeeper", "79", "FALSE"]}
+{"null": ["198546", "JUNG SUNGRYONG", "JUNG", "SUNGRYONG", "1/4/85", "South Korea", "190", "Suwon Bluewings FC", "Goalkeeper", "60", "FALSE"]}
+{"null": ["209940", "JUNIOR DIAZ", "JUNIOR", "DIAZ", "9/12/83", "Costa Rica", "185", "FSV Mainz 05", "Defender", "61", "FALSE"]}
+{"null": ["356712", "JUWON OSHANIWA", "JUWON", "OSHANIWA", "9/14/90", "Nigeria", "184", "FC Ashdod", "Defender", "9", "FALSE"]}
+{"null": ["330659", "KARIM ANSARI FARD", "KARIM", "ANSARI FARD", "4/3/90", "Iran", "185", "Tractor Sazi Tabriz FC", "Forward", "40", "FALSE"]}
+{"null": ["297103", "KARIM BENZEMA", "KARIM", "BENZEMA", "12/19/87", "France", "185", "Real Madrid CF", "Forward", "65", "FALSE"]}
+{"null": ["233500", "KEISUKE HONDA", "KEISUKE", "HONDA", "6/13/86", "Japan", "182", "AC Milan", "Forward", "55", "FALSE"]}
+{"null": ["315424", "KENNETH OMERUO", "KENNETH", "OMERUO", "10/17/93", "Nigeria", "185", "Middlesbrough FC", "Defender", "17", "FALSE"]}
+{"null": ["358120", "KEVIN DE BRUYNE", "KEVIN", "DE BRUYNE", "6/28/91", "Belgium", "181", "VfL Wolfsburg", "Midfielder", "22", "FALSE"]}
+{"null": ["358694", "KEVIN GROSSKREUTZ", "KEVIN", "GROSSKREUTZ", "7/19/88", "Germany", "186", "Borussia Dortmund", "Defender", "4", "FALSE"]}
+{"null": ["290903", "KEVIN MIRALLAS", "KEVIN", "MIRALLAS", "10/5/87", "Belgium", "179", "Everton FC", "Forward", "44", "FALSE"]}
+{"null": ["196897", "KEVIN PRINCE BOATENG", "KEVIN", "PRINCE BOATENG", "3/6/87", "Ghana", "182", "FC Schalke 04", "Forward", "12", "FALSE"]}
+{"null": ["199175", "KEYLOR NAVAS", "KEYLOR", "NAVAS", "12/15/86", "Costa Rica", "184", "Levante UD", "Goalkeeper", "52", "FALSE"]}
+{"null": ["306206", "KHOSRO HEYDARI", "KHOSRO", "HEYDARI", "9/14/83", "Iran", "175", "Esteghlal Tehran FC", "Forward", "47", "FALSE"]}
+{"null": ["268406", "KI SUNGYUENG", "KI", "SUNGYUENG", "1/24/89", "South Korea", "186", "Sunderland AFC", "Midfielder", "58", "FALSE"]}
+{"null": ["291389", "KIM BOKYUNG", "KIM", "BOKYUNG", "10/6/89", "South Korea", "178", "Cardiff City FC", "Midfielder", "27", "FALSE"]}
+{"null": ["278126", "KIM CHANGSOO", "KIM", "CHANGSOO", "9/12/85", "South Korea", "179", "Kashiwa Reysol", "Defender", "8", "FALSE"]}
+{"null": ["274281", "KIM SEUNGGYU", "KIM", "SEUNGGYU", "9/30/90", "South Korea", "187", "Ulsan Hyundai FC", "Goalkeeper", "5", "FALSE"]}
+{"null": ["321745", "KIM SHINWOOK", "KIM", "SHINWOOK", "4/14/88", "South Korea", "196", "Ulsan Hyundai FC", "Forward", "27", "FALSE"]}
+{"null": ["375754", "KIM YOUNGGWON", "KIM", "YOUNGGWON", "2/27/90", "South Korea", "187", "Guangzhou Evergrande FC", "Defender", "20", "FALSE"]}
+{"null": ["184615", "KLAAS JAN HUNTELAAR", "KLAAS", "JAN HUNTELAAR", "8/12/83", "Netherlands", "187", "FC Schalke 04", "Forward", "61", "FALSE"]}
+{"null": ["313410", "KOKE MERODIO", "KOKE", "MERODIO", "1/8/92", "Spain", "178", "Atletico Madrid", "Midfielder", "7", "FALSE"]}
+{"null": ["178963", "KOLO TOURE", "KOLO", "TOURE", "3/19/81", "Ivory Coast", "183", "Liverpool FC", "Defender", "106", "FALSE"]}
+{"null": ["297839", "KONAN YA", "KONAN", "YA", "5/22/84", "Ivory Coast", "174", "Hannover 96", "Midfielder", "24", "FALSE"]}
+{"null": ["214887", "KONSTANTINOS KATSOURANIS", "KONSTANTINOS", "KATSOURANIS", "6/21/79", "Greece", "183", "PAOK FC", "Midfielder", "110", "FALSE"]}
+{"null": ["323556", "KONSTANTINOS MANOLAS", "KONSTANTINOS", "MANOLAS", "6/14/91", "Greece", "186", "Olympiacos Piraeus FC", "Defender", "8", "FALSE"]}
+{"null": ["318768", "KONSTANTINOS MITROGLOU", "KONSTANTINOS", "MITROGLOU", "3/12/88", "Greece", "188", "Fulham FC", "Forward", "31", "FALSE"]}
+{"null": ["291393", "KOO JACHEOL", "KOO", "JACHEOL", "2/27/89", "South Korea", "182", "FSV Mainz 05", "Forward", "36", "TRUE"]}
+{"null": ["294619", "KWADWO ASAMOAH", "KWADWO", "ASAMOAH", "12/9/88", "Ghana", "168", "Juventus FC", "Midfielder", "61", "FALSE"]}
+{"null": ["212410", "KWAK TAEHWI", "KWAK", "TAEHWI", "7/8/81", "South Korea", "185", "Al Hilal FC", "Defender", "34", "FALSE"]}
+{"null": ["175512", "KYLE BECKERMAN", "KYLE", "BECKERMAN", "4/23/82", "USA", "181", "Real Salt Lake", "Midfielder", "36", "FALSE"]}
+{"null": ["200262", "LANDRY NGUEMO", "LANDRY", "NGUEMO", "11/28/85", "Cameroon", "172", "FC Girondins Bordeaux", "Midfielder", "39", "FALSE"]}
+{"null": ["290822", "LAURENT CIMAN", "LAURENT", "CIMAN", "8/5/85", "Belgium", "180", "Standard Liege", "Defender", "8", "FALSE"]}
+{"null": ["358012", "LAURENT KOSCIELNY", "LAURENT", "KOSCIELNY", "9/10/85", "France", "185", "Arsenal FC", "Defender", "17", "FALSE"]}
+{"null": ["299086", "LAZAROS CHRISTODOULOPOULOS", "LAZAROS", "CHRISTODOULOPOULOS", "12/19/86", "Greece", "182", "Bologna FC", "Midfielder", "18", "FALSE"]}
+{"null": ["306818", "LEE BUMYOUNG", "LEE", "BUMYOUNG", "4/2/89", "South Korea", "199", "Busan IPark FC", "Goalkeeper", "0", "FALSE"]}
+{"null": ["268414", "LEE CHUNGYONG", "LEE", "CHUNGYONG", "7/2/88", "South Korea", "180", "Bolton Wanderers FC", "Midfielder", "54", "FALSE"]}
+{"null": ["268149", "LEE KEUNHO", "LEE", "KEUNHO", "4/11/85", "South Korea", "177", "Sangju Sangmu FC", "Forward", "63", "FALSE"]}
+{"null": ["363578", "LEE YONG", "LEE", "YONG", "12/24/86", "South Korea", "180", "Ulsan Hyundai FC", "Defender", "11", "FALSE"]}
+{"null": ["305768", "LEIGHTON BAINES", "LEIGHTON", "BAINES", "12/11/84", "England", "172", "Everton FC", "Defender", "23", "FALSE"]}
+{"null": ["321641", "LEONARDO BONUCCI", "LEONARDO", "BONUCCI", "5/1/87", "Italy", "190", "Juventus FC", "Defender", "36", "FALSE"]}
+{"null": ["319436", "LEROY FER", "LEROY", "FER", "1/5/90", "Netherlands", "188", "Norwich City FC", "Midfielder", "5", "FALSE"]}
+{"null": ["354883", "LIASSINE CADAMURO", "LIASSINE", "CADAMURO", "3/5/88", "Algeria", "187", "RCD Mallorca", "Defender", "6", "FALSE"]}
+{"null": ["229397", "LIONEL MESSI", "LIONEL", "MESSI", "6/24/87", "Argentina", "169", "FC Barcelona", "Forward", "84", "TRUE"]}
+{"null": ["355859", "LOIC FEUDJOU", "LOIC", "FEUDJOU", "4/14/92", "Cameroon", "178", "Coton Sport FC", "Goalkeeper", "1", "FALSE"]}
+{"null": ["299878", "LOIC REMY", "LOIC", "REMY", "1/2/87", "France", "185", "Newcastle United FC", "Forward", "24", "FALSE"]}
+{"null": ["359235", "LORENZO INSIGNE", "LORENZO", "INSIGNE", "6/4/91", "Italy", "163", "SSC Napoli", "Forward", "4", "FALSE"]}
+{"null": ["215484", "LOUKAS VYNTRA", "LOUKAS", "VYNTRA", "2/5/81", "Greece", "184", "Levante UD", "Defender", "49", "FALSE"]}
+{"null": ["200133", "LUCAS BIGLIA", "LUCAS", "BIGLIA", "1/30/86", "Argentina", "175", "SS Lazio", "Midfielder", "17", "FALSE"]}
+{"null": ["368860", "LUCAS DIGNE", "LUCAS", "DIGNE", "7/20/93", "France", "179", "Paris Saint-Germain FC", "Defender", "2", "FALSE"]}
+{"null": ["270400", "LUIS GARRIDO", "LUIS", "GARRIDO", "11/5/90", "Honduras", "170", "CD Olimpia", "Midfielder", "19", "FALSE"]}
+{"null": ["380009", "LUIS LOPEZ", "LUIS", "LOPEZ", "9/13/93", "Honduras", "182", "Real Espana", "Goalkeeper", "0", "FALSE"]}
+{"null": ["359428", "LUIS NETO", "LUIS", "NETO", "5/26/88", "Portugal", "186", "FC Zenit St. Petersburg", "Defender", "7", "FALSE"]}
+{"null": ["202280", "LUIS SARITAMA", "LUIS", "SARITAMA", "10/20/83", "Ecuador", "175", "Barcelona SC", "Midfielder", "48", "FALSE"]}
+{"null": ["270775", "LUIS SUAREZ", "LUIS", "SUAREZ", "1/24/87", "Uruguay", "181", "Liverpool FC", "Forward", "77", "FALSE"]}
+{"null": ["367918", "LUIZ GUSTAVO", "LUIZ", "GUSTAVO", "7/23/87", "Brazil", "188", "VfL Wolfsburg", "Midfielder", "18", "FALSE"]}
+{"null": ["241559", "LUKA MODRIC", "LUKA", "MODRIC", "9/9/85", "Croatia", "173", "Real Madrid CF", "Midfielder", "74", "FALSE"]}
+{"null": ["196789", "LUKAS PODOLSKI", "LUKAS", "PODOLSKI", "6/4/85", "Germany", "180", "Arsenal FC", "Forward", "113", "FALSE"]}
+{"null": ["336450", "LUKE SHAW", "LUKE", "SHAW", "7/12/95", "England", "184", "Southampton FC", "Defender", "1", "FALSE"]}
+{"null": ["215208", "MADJID BOUGUERRA", "MADJID", "BOUGUERRA", "10/7/82", "Algeria", "189", "Lekhwiya SC", "Defender", "61", "TRUE"]}
+{"null": ["181406", "MAICON SISENANDO", "MAICON", "SISENANDO", "7/26/81", "Brazil", "186", "AS Roma", "Defender", "71", "FALSE"]}
+{"null": ["367393", "MAJEED WARIS", "MAJEED", "WARIS", "9/19/91", "Ghana", "172", "Valenciennes FC", "Forward", "12", "FALSE"]}
+{"null": ["289027", "MAKOTO HASEBE", "MAKOTO", "HASEBE", "1/18/84", "Japan", "180", "1. FC Nuernberg", "Midfielder", "78", "TRUE"]}
+{"null": ["358885", "MAKSIM KANUNNIKOV", "MAKSIM", "KANUNNIKOV", "7/14/91", "Russia", "184", "FK Amkar Perm", "Forward", "2", "FALSE"]}
+{"null": ["274135", "MAMADOU SAKHO", "MAMADOU", "SAKHO", "2/13/90", "France", "186", "Liverpool FC", "Defender", "18", "FALSE"]}
+{"null": ["275112", "MANABU SAITO", "MANABU", "SAITO", "4/4/90", "Japan", "169", "Yokohama F-Marinos", "Forward", "4", "FALSE"]}
+{"null": ["228912", "MANUEL NEUER", "MANUEL", "NEUER", "3/27/86", "Germany", "193", "FC Bayern Muenchen", "Goalkeeper", "45", "FALSE"]}
+{"null": ["218284", "MARCELO VIEIRA", "MARCELO", "VIEIRA", "5/12/88", "Brazil", "174", "Real Madrid CF", "Defender", "30", "FALSE"]}
+{"null": ["380000", "MARCELO BROZOVIC", "MARCELO", "BROZOVIC", "11/16/92", "Croatia", "180", "GNK Dinamo Zagreb", "Midfielder", "0", "FALSE"]}
+{"null": ["233530", "MARCELO DIAZ", "MARCELO", "DIAZ", "12/30/86", "Chile", "168", "FC Basel", "Midfielder", "20", "FALSE"]}
+{"null": ["319311", "MARCO FABIAN", "MARCO", "FABIAN", "7/21/89", "Mexico", "171", "Cruz Azul FC", "Midfielder", "14", "FALSE"]}
+{"null": ["378836", "MARCO PAROLO", "MARCO", "PAROLO", "1/25/85", "Italy", "186", "Parma FC", "Midfielder", "3", "FALSE"]}
+{"null": ["352394", "MARCO REUS", "MARCO", "REUS", "5/31/89", "Germany", "180", "Borussia Dortmund", "Forward", "20", "FALSE"]}
+{"null": ["359217", "MARCO VERRATTI", "MARCO", "VERRATTI", "11/5/92", "Italy", "168", "Paris Saint-Germain FC", "Midfielder", "5", "FALSE"]}
+{"null": ["318688", "MARCOS ROJO", "MARCOS", "ROJO", "3/20/90", "Argentina", "189", "Sporting CP", "Defender", "20", "FALSE"]}
+{"null": ["270144", "MARCOS URENA", "MARCOS", "URENA", "3/5/90", "Costa Rica", "179", "Kuban Krasnodar", "Forward", "23", "FALSE"]}
+{"null": ["306144", "MARIANO ANDUJAR", "MARIANO", "ANDUJAR", "7/30/83", "Argentina", "194", "Calcio Catania", "Goalkeeper", "10", "FALSE"]}
+{"null": ["301059", "MARIO BALOTELLI", "MARIO", "BALOTELLI", "8/12/90", "Italy", "189", "AC Milan", "Forward", "29", "FALSE"]}
+{"null": ["319470", "MARIO GAVRANOVIC", "MARIO", "GAVRANOVIC", "11/24/89", "Switzerland", "175", "FC Zuerich", "Forward", "11", "FALSE"]}
+{"null": ["309316", "MARIO GOETZE", "MARIO", "GOETZE", "6/3/92", "Germany", "176", "FC Bayern Muenchen", "Forward", "28", "FALSE"]}
+{"null": ["375518", "MARIO MANDZUKIC", "MARIO", "MANDZUKIC", "5/21/86", "Croatia", "188", "FC Bayern Muenchen", "Forward", "49", "FALSE"]}
+{"null": ["296297", "MARIO MARTINEZ", "MARIO", "MARTINEZ", "7/30/89", "Honduras", "173", "Real Espana", "Midfielder", "36", "FALSE"]}
+{"null": ["3408", "MARIO YEPES", "MARIO", "YEPES", "1/13/76", "Columbia", "186", "Atalanta Bergamo", "Defender", "97", "TRUE"]}
+{"null": ["178299", "MARK BRESCIANO", "MARK", "BRESCIANO", "2/11/80", "Australia", "182", "Al Gharafa SC", "Midfielder", "73", "FALSE"]}
+{"null": ["197411", "MARK MILLIGAN", "MARK", "MILLIGAN", "8/4/85", "Australia", "178", "Melbourne Victory FC", "Midfielder", "28", "FALSE"]}
+{"null": ["290902", "MAROUANE FELLAINI", "MAROUANE", "FELLAINI", "11/22/87", "Belgium", "194", "Manchester United FC", "Midfielder", "50", "FALSE"]}
+{"null": ["267829", "MARTIN CACERES", "MARTIN", "CACERES", "4/7/87", "Uruguay", "178", "Juventus FC", "Defender", "56", "FALSE"]}
+{"null": ["233703", "MARTIN DEMICHELIS", "MARTIN", "DEMICHELIS", "12/20/80", "Argentina", "184", "Manchester City FC", "Defender", "37", "FALSE"]}
+{"null": ["175629", "MARTIN SILVA", "MARTIN", "SILVA", "3/25/83", "Uruguay", "187", "CR Vasco da Gama", "Goalkeeper", "4", "FALSE"]}
+{"null": ["227839", "MARVIN CHAVEZ", "MARVIN", "CHAVEZ", "11/3/83", "Honduras", "156", "CD Chivas USA", "Midfielder", "41", "FALSE"]}
+{"null": ["233497", "MASAHIKO INOHA", "MASAHIKO", "INOHA", "8/28/85", "Japan", "179", "Jubilo Iwata", "Defender", "21", "FALSE"]}
+{"null": ["268594", "MASATO MORISHIGE", "MASATO", "MORISHIGE", "5/21/87", "Japan", "183", "FC Tokyo", "Defender", "9", "FALSE"]}
+{"null": ["213170", "MASOUD SHOJAEI", "MASOUD", "SHOJAEI", "6/9/84", "Iran", "185", "UD Las Palmas", "Forward", "49", "FALSE"]}
+{"null": ["339116", "MASSIMO LUONGO", "MASSIMO", "LUONGO", "9/25/92", "Australia", "176", "Swindon Town FC", "Midfielder", "1", "FALSE"]}
+{"null": ["339987", "MATEO KOVACIC", "MATEO", "KOVACIC", "5/6/94", "Croatia", "181", "FC Internazionale", "Midfielder", "9", "FALSE"]}
+{"null": ["321697", "MATHEW LECKIE", "MATHEW", "LECKIE", "2/4/91", "Australia", "181", "FSV Frankfurt", "Forward", "7", "FALSE"]}
+{"null": ["358011", "MATHIEU DEBUCHY", "MATHIEU", "DEBUCHY", "7/28/85", "France", "178", "Newcastle United FC", "Defender", "20", "FALSE"]}
+{"null": ["297106", "MATHIEU VALBUENA", "MATHIEU", "VALBUENA", "9/28/84", "France", "167", "Olympique Marseille", "Midfielder", "33", "FALSE"]}
+{"null": ["370523", "MATHIS BOLLY", "MATHIS", "BOLLY", "11/14/90", "Ivory Coast", "185", "Fortuna Duesseldorf", "Midfielder", "3", "FALSE"]}
+{"null": ["311150", "MATS HUMMELS", "MATS", "HUMMELS", "12/16/88", "Germany", "192", "Borussia Dortmund", "Defender", "29", "FALSE"]}
+{"null": ["367433", "MATT BESLER", "MATT", "BESLER", "2/11/87", "USA", "182", "Sporting Kansas City", "Defender", "16", "FALSE"]}
+{"null": ["197409", "MATT MCKAY", "MATT", "MCKAY", "1/11/83", "Australia", "174", "Brisbane Roar FC", "Midfielder", "46", "FALSE"]}
+{"null": ["288824", "MATTEO DARMIAN", "MATTEO", "DARMIAN", "12/2/89", "Italy", "182", "Torino FC", "Defender", "1", "FALSE"]}
+{"null": ["229051", "MATTHEW SPIRANOVIC", "MATTHEW", "SPIRANOVIC", "6/27/88", "Australia", "188", "Western Sydney Wanderers FC", "Defender", "17", "FALSE"]}
+{"null": ["379736", "MATTHIAS GINTER", "MATTHIAS", "GINTER", "1/19/94", "Germany", "187", "SC Freiburg", "Defender", "2", "FALSE"]}
+{"null": ["359223", "MATTIA DE SCIGLIO", "MATTIA", "DE SCIGLIO", "10/20/92", "Italy", "179", "AC Milan", "Defender", "10", "FALSE"]}
+{"null": ["309420", "MATTIA PERIN", "MATTIA", "PERIN", "11/10/92", "Italy", "188", "Genoa CFC", "Goalkeeper", "0", "FALSE"]}
+{"null": ["339117", "MATY RYAN", "MATY", "RYAN", "4/8/92", "Australia", "181", "Club Brugge KV", "Goalkeeper", "6", "FALSE"]}
+{"null": ["228617", "MAURICIO ISLA", "MAURICIO", "ISLA", "6/12/88", "Chile", "177", "Juventus FC", "Defender", "46", "FALSE"]}
+{"null": ["201787", "MAURICIO PINILLA", "MAURICIO", "PINILLA", "2/4/84", "Chile", "185", "Cagliari Calcio", "Forward", "25", "FALSE"]}
+{"null": ["353119", "MAX GRADEL", "MAX", "GRADEL", "11/30/87", "Ivory Coast", "177", "AS Saint-Etienne", "Midfielder", "25", "FALSE"]}
+{"null": ["184291", "MAXI RODRIGUEZ", "MAXI", "RODRIGUEZ", "1/2/81", "Argentina", "180", "CA Newells Old Boys", "Midfielder", "53", "FALSE"]}
+{"null": ["286481", "MAXIMILIANO PEREIRA", "MAXIMILIANO", "PEREIRA", "6/8/84", "Uruguay", "173", "SL Benfica", "Defender", "89", "FALSE"]}
+{"null": ["302630", "MAXIMO BANGUERA", "MAXIMO", "BANGUERA", "12/16/85", "Ecuador", "187", "Barcelona SC", "Goalkeeper", "24", "FALSE"]}
+{"null": ["207809", "MAXWELL ANDRADE", "MAXWELL", "ANDRADE", "8/27/81", "Brazil", "177", "Paris Saint-Germain FC", "Defender", "8", "FALSE"]}
+{"null": ["271253", "MAYA YOSHIDA", "MAYA", "YOSHIDA", "8/24/88", "Japan", "189", "Southampton FC", "Defender", "40", "FALSE"]}
+{"null": ["213879", "MAYNOR FIGUEROA", "MAYNOR", "FIGUEROA", "5/2/83", "Honduras", "184", "Hull City FC", "Defender", "100", "FALSE"]}
+{"null": ["321682", "MEDHI LACEN", "MEDHI", "LACEN", "3/15/84", "Algeria", "175", "Getafe CF", "Midfielder", "29", "FALSE"]}
+{"null": ["354873", "MEHDI MOSTEFA", "MEHDI", "MOSTEFA", "8/30/83", "Algeria", "182", "AC Ajaccio", "Midfielder", "22", "FALSE"]}
+{"null": ["267344", "MEHRDAD POOLADI", "MEHRDAD", "POOLADI", "2/26/87", "Iran", "180", "Perspolis FC", "Defender", "19", "FALSE"]}
+{"null": ["336098", "MEMPHIS DEPAY", "MEMPHIS", "DEPAY", "2/13/94", "Netherlands", "178", "PSV Eindhoven", "Forward", "6", "FALSE"]}
+{"null": ["299904", "MENSUR MUJDZA", "MENSUR", "MUJDZA", "3/28/84", "Bosnia & Herzegovina", "184", "SC Freiburg", "Midfielder", "24", "FALSE"]}
+{"null": ["305036", "MESUT OEZIL", "MESUT", "OEZIL", "10/15/88", "Germany", "180", "Arsenal FC", "Midfielder", "54", "FALSE"]}
+{"null": ["349574", "MICHAEL ARROYO", "MICHAEL", "ARROYO", "4/23/87", "Ecuador", "178", "Atlante FC", "Midfielder", "19", "FALSE"]}
+{"null": ["312014", "MICHAEL BABATUNDE", "MICHAEL", "BABATUNDE", "12/24/92", "Nigeria", "165", "FC Volyn Lutsk", "Forward", "4", "FALSE"]}
+{"null": ["271182", "MICHAEL BARRANTES", "MICHAEL", "BARRANTES", "10/4/83", "Costa Rica", "177", "Aalesunds FK", "Midfielder", "50", "FALSE"]}
+{"null": ["233531", "MICHAEL BRADLEY", "MICHAEL", "BRADLEY", "7/31/87", "USA", "185", "Toronto FC", "Midfielder", "84", "FALSE"]}
+{"null": ["175524", "MICHAEL ESSIEN", "MICHAEL", "ESSIEN", "12/3/82", "Ghana", "180", "AC Milan", "Midfielder", "57", "FALSE"]}
+{"null": ["356407", "MICHAEL LANG", "MICHAEL", "LANG", "2/8/91", "Switzerland", "185", "Grasshopper Club", "Defender", "6", "FALSE"]}
+{"null": ["208120", "MICHAEL UMANA", "MICHAEL", "UMANA", "7/16/82", "Costa Rica", "180", "Deportivo Saprissa", "Defender", "81", "FALSE"]}
+{"null": ["254089", "MICHEL VORM", "MICHEL", "VORM", "10/20/83", "Netherlands", "183", "Swansea City AFC", "Goalkeeper", "14", "FALSE"]}
+{"null": ["182021", "MICKAEL LANDREAU", "MICKAEL", "LANDREAU", "5/14/79", "France", "184", "SC Bastia", "Goalkeeper", "11", "FALSE"]}
+{"null": ["371044", "MIGUEL LAYUN", "MIGUEL", "LAYUN", "6/25/88", "Mexico", "178", "Club America", "Defender", "12", "FALSE"]}
+{"null": ["350129", "MIGUEL PONCE", "MIGUEL", "PONCE", "4/12/89", "Mexico", "175", "Deportivo Toluca FC", "Defender", "7", "FALSE"]}
+{"null": ["200201", "MIGUEL VELOSO", "MIGUEL", "VELOSO", "5/11/86", "Portugal", "181", "FC Dynamo Kyiv", "Midfielder", "47", "FALSE"]}
+{"null": ["379894", "MIIKO ALBORNOZ", "MIIKO", "ALBORNOZ", "11/30/90", "Chile", "180", "Malmo FF", "Defender", "2", "FALSE"]}
+{"null": ["197514", "MILE JEDINAK", "MILE", "JEDINAK", "8/3/84", "Australia", "188", "Crystal Palace FC", "Midfielder", "43", "TRUE"]}
+{"null": ["299198", "MIRALEM PJANIC", "MIRALEM", "PJANIC", "4/2/90", "Bosnia & Herzegovina", "180", "AS Roma", "Midfielder", "48", "FALSE"]}
+{"null": ["182206", "MIROSLAV KLOSE", "MIROSLAV", "KLOSE", "6/9/78", "Germany", "182", "SS Lazio", "Forward", "131", "FALSE"]}
+{"null": ["356933", "MITCH LANGERAK", "MITCH", "LANGERAK", "8/22/88", "Australia", "191", "Borussia Dortmund", "Goalkeeper", "3", "FALSE"]}
+{"null": ["312672", "MIX DISKERUD", "MIX", "DISKERUD", "10/2/90", "USA", "182", "Rosenborg BK", "Midfielder", "19", "FALSE"]}
+{"null": ["305708", "MOHAMED ZEMMAMOUCHE", "MOHAMED", "ZEMMAMOUCHE", "3/19/85", "Algeria", "187", "USM Alger", "Goalkeeper", "7", "FALSE"]}
+{"null": ["311850", "MOHAMMED RABIU", "MOHAMMED", "RABIU", "12/31/89", "Ghana", "189", "Kuban Krasnodar", "Midfielder", "16", "FALSE"]}
+{"null": ["290825", "MOUSSA DEMBELE", "MOUSSA", "DEMBELE", "7/16/87", "Belgium", "185", "Tottenham Hotspur FC", "Midfielder", "56", "FALSE"]}
+{"null": ["317056", "MOUSSA SISSOKO", "MOUSSA", "SISSOKO", "8/16/89", "France", "187", "Newcastle United FC", "Midfielder", "16", "FALSE"]}
+{"null": ["235097", "MUBARAK WAKASO", "MUBARAK", "WAKASO", "7/25/90", "Ghana", "171", "FC Rubin Kazan", "Midfielder", "16", "FALSE"]}
+{"null": ["358101", "MUHAMED BESIC", "MUHAMED", "BESIC", "9/10/92", "Bosnia & Herzegovina", "177", "Ferencvarosi TC", "Midfielder", "9", "FALSE"]}
+{"null": ["379939", "NABIL BENTALEB", "NABIL", "BENTALEB", "11/24/94", "Algeria", "189", "Tottenham Hotspur FC", "Midfielder", "2", "FALSE"]}
+{"null": ["367261", "NABIL GHILAS", "NABIL", "GHILAS", "4/20/90", "Algeria", "183", "FC Porto", "Forward", "5", "FALSE"]}
+{"null": ["358108", "NACER CHADLI", "NACER", "CHADLI", "8/2/89", "Belgium", "187", "Tottenham Hotspur FC", "Midfielder", "20", "FALSE"]}
+{"null": ["254167", "NANI DA CUNHA", "NANI", "DA CUNHA", "11/17/86", "Portugal", "175", "Manchester United FC", "Forward", "73", "FALSE"]}
+{"null": ["314197", "NEYMAR SANTOS JR.", "NEYMAR", "SANTOS JR.", "2/5/92", "Brazil", "175", "FC Barcelona", "Forward", "48", "FALSE"]}
+{"null": ["184982", "NICK RIMANDO", "NICK", "RIMANDO", "6/17/79", "USA", "182", "Real Salt Lake", "Goalkeeper", "14", "FALSE"]}
+{"null": ["305378", "NICOLAS LODEIRO", "NICOLAS", "LODEIRO", "3/21/89", "Uruguay", "173", "Botafogo FR", "Midfielder", "26", "FALSE"]}
+{"null": ["216874", "NICOLAS LOMBAERTS", "NICOLAS", "LOMBAERTS", "3/20/85", "Belgium", "188", "FC Zenit St. Petersburg", "Defender", "26", "FALSE"]}
+{"null": ["290931", "NICOLAS NKOULOU", "NICOLAS", "NKOULOU", "3/27/90", "Cameroon", "185", "Olympique Marseille", "Defender", "47", "FALSE"]}
+{"null": ["216964", "NIGEL DE JONG", "NIGEL", "DE JONG", "11/30/84", "Netherlands", "174", "AC Milan", "Midfielder", "70", "FALSE"]}
+{"null": ["316117", "NIKICA JELAVIC", "NIKICA", "JELAVIC", "8/27/85", "Croatia", "187", "Hull City FC", "Forward", "32", "FALSE"]}
+{"null": ["178185", "NOEL VALLADARES", "NOEL", "VALLADARES", "5/3/77", "Honduras", "178", "CD Olimpia", "Goalkeeper", "120", "TRUE"]}
+{"null": ["315429", "OGENYI ONAZI", "OGENYI", "ONAZI", "12/25/92", "Nigeria", "168", "SS Lazio", "Midfielder", "20", "FALSE"]}
+{"null": ["359995", "OGNJEN VRANJES", "OGNJEN", "VRANJES", "10/24/89", "Bosnia & Herzegovina", "186", "Elazigspor", "Defender", "13", "FALSE"]}
+{"null": ["297377", "OGNJEN VUKOJEVIC", "OGNJEN", "VUKOJEVIC", "12/20/83", "Croatia", "184", "FC Dynamo Kyiv", "Midfielder", "55", "FALSE"]}
+{"null": ["306900", "OKECHUKWU UCHEBO", "OKECHUKWU", "UCHEBO", "2/3/90", "Nigeria", "194", "Cercle Brugge", "Forward", "3", "FALSE"]}
+{"null": ["358891", "OLEG SHATOV", "OLEG", "SHATOV", "7/29/90", "Russia", "176", "FC Zenit St. Petersburg", "Midfielder", "6", "FALSE"]}
+{"null": ["312234", "OLIVER BOZANIC", "OLIVER", "BOZANIC", "1/8/89", "Australia", "167", "FC Luzern", "Midfielder", "3", "FALSE"]}
+{"null": ["369026", "OLIVER ZELENIKA", "OLIVER", "ZELENIKA", "5/14/93", "Croatia", "192", "NK Lokomotiva Zagreb", "Goalkeeper", "0", "FALSE"]}
+{"null": ["358015", "OLIVIER GIROUD", "OLIVIER", "GIROUD", "9/30/86", "France", "192", "Arsenal FC", "Forward", "29", "FALSE"]}
+{"null": ["234405", "OMAR GONZALEZ", "OMAR", "GONZALEZ", "10/11/88", "USA", "195", "Los Angeles Galaxy", "Defender", "19", "FALSE"]}
+{"null": ["228328", "ORESTIS KARNEZIS", "ORESTIS", "KARNEZIS", "7/11/85", "Greece", "189", "Granada CF", "Goalkeeper", "18", "FALSE"]}
+{"null": ["227851", "ORIBE PERALTA", "ORIBE", "PERALTA", "1/12/84", "Mexico", "177", "Club Santos Laguna", "Forward", "27", "FALSE"]}
+{"null": ["312868", "OSCAR DOS SANTOS JR.", "OSCAR", "DOS SANTOS JR.", "9/9/91", "Brazil", "181", "Chelsea FC", "Midfielder", "30", "FALSE"]}
+{"null": ["275793", "OSCAR BAGUI", "OSCAR", "BAGUI", "12/10/82", "Ecuador", "170", "CS Emelec", "Defender", "21", "FALSE"]}
+{"null": ["312987", "OSCAR DUARTE", "OSCAR", "DUARTE", "6/3/89", "Costa Rica", "184", "Club Brugge KV", "Defender", "10", "FALSE"]}
+{"null": ["301165", "OSCAR GRANADOS", "OSCAR", "GRANADOS", "10/25/85", "Costa Rica", "183", "CS Herediano", "Midfielder", "11", "FALSE"]}
+{"null": ["297230", "OSMAN CHAVEZ", "OSMAN", "CHAVEZ", "7/29/84", "Honduras", "187", "Qingdao Jonoon FC", "Defender", "54", "FALSE"]}
+{"null": ["291332", "OUSMANE DIARRASSOUBA", "OUSMANE", "DIARRASSOUBA", "12/21/86", "Ivory Coast", "186", "Caykur Rizespor", "Defender", "1", "FALSE"]}
+{"null": ["200213", "PABLO ARMERO", "PABLO", "ARMERO", "11/2/86", "Columbia", "174", "West Ham United FC", "Defender", "52", "FALSE"]}
+{"null": ["182379", "PABLO ZABALETA", "PABLO", "ZABALETA", "1/16/85", "Argentina", "174", "Manchester City FC", "Defender", "36", "FALSE"]}
+{"null": ["360111", "PANAGIOTIS GLYKOS", "PANAGIOTIS", "GLYKOS", "10/10/86", "Greece", "190", "PAOK FC", "Goalkeeper", "2", "FALSE"]}
+{"null": ["360109", "PANAGIOTIS KONE", "PANAGIOTIS", "KONE", "7/26/87", "Greece", "184", "Bologna FC", "Midfielder", "15", "FALSE"]}
+{"null": ["319413", "PANAGIOTIS TACHTSIDIS", "PANAGIOTIS", "TACHTSIDIS", "2/15/91", "Greece", "194", "Torino FC", "Midfielder", "5", "FALSE"]}
+{"null": ["207761", "PARK CHUYOUNG", "PARK", "CHUYOUNG", "7/10/85", "South Korea", "183", "Watford FC", "Forward", "62", "FALSE"]}
+{"null": ["291398", "PARK JONGWOO", "PARK", "JONGWOO", "3/10/89", "South Korea", "180", "Guangzhou R&F FC", "Midfielder", "10", "FALSE"]}
+{"null": ["268411", "PARK JOOHO", "PARK", "JOOHO", "1/16/87", "South Korea", "174", "FSV Mainz 05", "Defender", "13", "FALSE"]}
+{"null": ["212246", "PATRICE EVRA", "PATRICE", "EVRA", "5/15/81", "France", "171", "Manchester United FC", "Defender", "57", "FALSE"]}
+{"null": ["214874", "PATRICK PEMBERTON", "PATRICK", "PEMBERTON", "4/24/82", "Costa Rica", "178", "LD Alajuelense", "Goalkeeper", "20", "FALSE"]}
+{"null": ["289195", "PAUL AGUILAR", "PAUL", "AGUILAR", "3/6/86", "Mexico", "178", "Club America", "Defender", "27", "FALSE"]}
+{"null": ["367388", "PAUL POGBA", "PAUL", "POGBA", "3/15/93", "France", "192", "Juventus FC", "Midfielder", "10", "FALSE"]}
+{"null": ["254091", "PAUL VERHAEGH", "PAUL", "VERHAEGH", "9/1/83", "Netherlands", "178", "FC Augsburg", "Defender", "2", "FALSE"]}
+{"null": ["362727", "PAULINHO MACIEL JR.", "PAULINHO", "MACIEL JR.", "7/25/88", "Brazil", "181", "Tottenham Hotspur FC", "Midfielder", "25", "FALSE"]}
+{"null": ["318601", "PEDRO RODRIGUEZ", "PEDRO", "RODRIGUEZ", "7/28/87", "Spain", "169", "FC Barcelona", "Forward", "39", "FALSE"]}
+{"null": ["251481", "PEJMAN MONTAZERI", "PEJMAN", "MONTAZERI", "9/6/83", "Iran", "186", "Umm Salal SC", "Defender", "20", "FALSE"]}
+{"null": ["275931", "PEPE FERREIRA", "PEPE", "FERREIRA", "2/26/83", "Portugal", "186", "Real Madrid CF", "Defender", "57", "FALSE"]}
+{"null": ["175413", "PEPE REINA", "PEPE", "REINA", "8/31/82", "Spain", "187", "SSC Napoli", "Goalkeeper", "32", "FALSE"]}
+{"null": ["207888", "PER MERTESACKER", "PER", "MERTESACKER", "9/29/84", "Germany", "198", "Arsenal FC", "Defender", "97", "FALSE"]}
+{"null": ["214228", "PETER ODEMWINGIE", "PETER", "ODEMWINGIE", "7/15/81", "Nigeria", "181", "Stoke City FC", "Forward", "60", "FALSE"]}
+{"null": ["299960", "PHIL JAGIELKA", "PHIL", "JAGIELKA", "8/17/82", "England", "183", "Everton FC", "Defender", "25", "FALSE"]}
+{"null": ["358009", "PHIL JONES", "PHIL", "JONES", "2/21/92", "England", "185", "Manchester United FC", "Defender", "9", "FALSE"]}
+{"null": ["196748", "PHILIPP LAHM", "PHILIPP", "LAHM", "11/11/83", "Germany", "170", "FC Bayern Muenchen", "Midfielder", "105", "TRUE"]}
+{"null": ["209989", "PHILIPPE SENDEROS", "PHILIPPE", "SENDEROS", "2/14/85", "Switzerland", "190", "Valencia CF", "Defender", "53", "FALSE"]}
+{"null": ["214135", "PIERRE WEBO", "PIERRE", "WEBO", "1/20/82", "Cameroon", "180", "Fenerbahce SK", "Forward", "54", "FALSE"]}
+{"null": ["368708", "RAFA SILVA", "RAFA", "SILVA", "5/17/93", "Portugal", "173", "Sporting Braga", "Forward", "2", "FALSE"]}
+{"null": ["178119", "RAFAEL MARQUEZ", "RAFAEL", "MARQUEZ", "2/13/79", "Mexico", "184", "Club Leon", "Defender", "119", "TRUE"]}
+{"null": ["296827", "RAFIK HALLICHE", "RAFIK", "HALLICHE", "9/2/86", "Algeria", "187", "Academica Coimbra", "Defender", "28", "FALSE"]}
+{"null": ["336043", "RAHEEM STERLING", "RAHEEM", "STERLING", "12/8/94", "England", "170", "Liverpool FC", "Midfielder", "3", "FALSE"]}
+{"null": ["298516", "RAHMAN AHMADI", "RAHMAN", "AHMADI", "7/30/80", "Iran", "182", "Sepahan FC", "Goalkeeper", "11", "FALSE"]}
+{"null": ["323326", "RAIS MBOLHI", "RAIS", "MBOLHI", "4/25/86", "Algeria", "186", "CSKA Sofia", "Goalkeeper", "27", "FALSE"]}
+{"null": ["298959", "RAMIRES SANTOS", "RAMIRES", "SANTOS", "3/24/87", "Brazil", "181", "Chelsea FC", "Midfielder", "42", "FALSE"]}
+{"null": ["315436", "RAMON AZEEZ", "RAMON", "AZEEZ", "12/12/92", "Nigeria", "170", "UD Almeria", "Midfielder", "1", "FALSE"]}
+{"null": ["237058", "RANDALL BRENES", "RANDALL", "BRENES", "8/13/83", "Costa Rica", "170", "CSD Cartagines", "Forward", "39", "FALSE"]}
+{"null": ["359440", "RAPHAEL VARANE", "RAPHAEL", "VARANE", "4/25/93", "France", "191", "Real Madrid CF", "Defender", "5", "FALSE"]}
+{"null": ["370469", "RASHID SUMAILA", "RASHID", "SUMAILA", "12/18/92", "Ghana", "160", "Mamelodi Sundowns FC", "Defender", "8", "FALSE"]}
+{"null": ["216820", "RAUL ALBIOL", "RAUL", "ALBIOL", "9/4/85", "Spain", "187", "SSC Napoli", "Defender", "46", "FALSE"]}
+{"null": ["356731", "RAUL JIMENEZ", "RAUL", "JIMENEZ", "5/5/91", "Mexico", "186", "Club America", "Forward", "23", "FALSE"]}
+{"null": ["210214", "RAUL MEIRELES", "RAUL", "MEIRELES", "3/17/83", "Portugal", "179", "Fenerbahce SK", "Midfielder", "73", "FALSE"]}
+{"null": ["216642", "RETO ZIEGLER", "RETO", "ZIEGLER", "1/16/86", "Switzerland", "183", "US Sassuolo", "Defender", "35", "FALSE"]}
+{"null": ["362641", "REZA GHOOCHANNEJAD", "REZA", "GHOOCHANNEJAD", "9/20/87", "Iran", "181", "Charlton Athletic FC", "Forward", "13", "FALSE"]}
+{"null": ["353379", "REZA HAGHIGHI", "REZA", "HAGHIGHI", "2/1/89", "Iran", "190", "Perspolis FC", "Midfielder", "7", "FALSE"]}
+{"null": ["349631", "RICARDO ALVAREZ", "RICARDO", "ALVAREZ", "4/12/88", "Argentina", "188", "FC Internazionale", "Midfielder", "5", "FALSE"]}
+{"null": ["210212", "RICARDO COSTA", "RICARDO", "COSTA", "5/16/81", "Portugal", "183", "Valencia CF", "Defender", "18", "FALSE"]}
+{"null": ["313559", "RICARDO RODRIGUEZ", "RICARDO", "RODRIGUEZ", "8/25/92", "Switzerland", "180", "VfL Wolfsburg", "Defender", "21", "FALSE"]}
+{"null": ["373224", "RICKIE LAMBERT", "RICKIE", "LAMBERT", "2/16/82", "England", "188", "Southampton FC", "Forward", "4", "FALSE"]}
+{"null": ["214571", "RIO MAVUBA", "RIO", "MAVUBA", "3/8/84", "France", "172", "Lille OSC", "Midfielder", "11", "FALSE"]}
+{"null": ["379942", "RIYAD MAHREZ", "RIYAD", "MAHREZ", "2/21/91", "Algeria", "179", "Leicester City FC", "Forward", "1", "FALSE"]}
+{"null": ["217315", "ROBIN VAN PERSIE", "ROBIN", "VAN PERSIE", "8/6/83", "Netherlands", "186", "Manchester United FC", "Forward", "84", "TRUE"]}
+{"null": ["319482", "RODRIGO MUNOZ", "RODRIGO", "MUNOZ", "1/22/82", "Uruguay", "185", "Club Libertad", "Goalkeeper", "0", "FALSE"]}
+{"null": ["230739", "RODRIGO PALACIO", "RODRIGO", "PALACIO", "2/5/82", "Argentina", "175", "FC Internazionale", "Forward", "21", "FALSE"]}
+{"null": ["304934", "ROGER ESPINOZA", "ROGER", "ESPINOZA", "10/25/86", "Honduras", "180", "Wigan Athletic FC", "Midfielder", "41", "FALSE"]}
+{"null": ["356676", "ROMAN BUERKI", "ROMAN", "BUERKI", "11/14/90", "Switzerland", "188", "Grasshopper Club", "Goalkeeper", "0", "FALSE"]}
+{"null": ["297383", "ROMAN SHIROKOV", "ROMAN", "SHIROKOV", "7/6/81", "Russia", "183", "FC Krasnodar", "Midfielder", "41", "TRUE"]}
+{"null": ["195223", "ROMAN WEIDENFELLER", "ROMAN", "WEIDENFELLER", "8/6/80", "Germany", "188", "Borussia Dortmund", "Goalkeeper", "2", "FALSE"]}
+{"null": ["358112", "ROMELU LUKAKU", "ROMELU", "LUKAKU", "5/13/93", "Belgium", "190", "Everton FC", "Forward", "29", "FALSE"]}
+{"null": ["216715", "RON VLAAR", "RON", "VLAAR", "2/16/85", "Netherlands", "190", "Aston Villa FC", "Defender", "23", "FALSE"]}
+{"null": ["302381", "RON-ROBERT ZIELER", "RON-ROBERT", "ZIELER", "2/12/89", "Germany", "187", "Hannover 96", "Goalkeeper", "3", "FALSE"]}
+{"null": ["369990", "RONY MARTINEZ", "RONY", "MARTINEZ", "10/16/87", "Honduras", "171", "CD Real Sociedad", "Forward", "9", "FALSE"]}
+{"null": ["369392", "ROSS BARKLEY", "ROSS", "BARKLEY", "12/5/93", "England", "185", "Everton FC", "Midfielder", "4", "FALSE"]}
+{"null": ["183798", "ROY MILLER", "ROY", "MILLER", "11/24/84", "Costa Rica", "189", "New York Red Bulls", "Defender", "47", "FALSE"]}
+{"null": ["299064", "RUBEN AMORIM", "RUBEN", "AMORIM", "1/27/85", "Portugal", "180", "SL Benfica", "Midfielder", "11", "FALSE"]}
+{"null": ["356710", "RUBEN GABRIEL", "RUBEN", "GABRIEL", "9/25/90", "Nigeria", "184", "KV Waasland-Beveren", "Midfielder", "10", "FALSE"]}
+{"null": ["269768", "RUI PATRICIO", "RUI", "PATRICIO", "2/15/88", "Portugal", "189", "Sporting CP", "Goalkeeper", "29", "FALSE"]}
+{"null": ["306410", "RYAN MCGOWAN", "RYAN", "MCGOWAN", "8/15/89", "Australia", "185", "Shandong Luneng Taishan FC", "Defender", "9", "FALSE"]}
+{"null": ["216970", "SALOMON KALOU", "SALOMON", "KALOU", "8/5/85", "Ivory Coast", "175", "Lille OSC", "Forward", "66", "FALSE"]}
+{"null": ["298655", "SALVATORE SIRIGU", "SALVATORE", "SIRIGU", "1/12/87", "Italy", "190", "Paris Saint-Germain FC", "Goalkeeper", "8", "FALSE"]}
+{"null": ["196900", "SAMI KHEDIRA", "SAMI", "KHEDIRA", "4/4/87", "Germany", "189", "Real Madrid CF", "Midfielder", "45", "FALSE"]}
+{"null": ["359375", "SAMMIR CRUZ CAMPOS", "SAMMIR", "CRUZ CAMPOS", "4/23/87", "Croatia", "178", "Getafe CF", "Midfielder", "5", "FALSE"]}
+{"null": ["380663", "SAMMY BOSSUT", "SAMMY", "BOSSUT", "8/11/85", "Belgium", "187", "SV Zulte Waregem", "Goalkeeper", "0", "FALSE"]}
+{"null": ["370438", "SAMMY NDJOCK", "SAMMY", "NDJOCK", "2/25/90", "Cameroon", "178", "Fethiyespor", "Goalkeeper", "2", "FALSE"]}
+{"null": ["170667", "SAMUEL ETOO", "SAMUEL", "ETOO", "3/10/81", "Cameroon", "181", "Chelsea FC", "Forward", "117", "TRUE"]}
+{"null": ["238381", "SAMUEL INKOOM", "SAMUEL", "INKOOM", "6/1/89", "Ghana", "179", "FC Platanias", "Defender", "46", "FALSE"]}
+{"null": ["297705", "SANTI CAZORLA", "SANTI", "CAZORLA", "12/13/84", "Spain", "169", "Arsenal FC", "Midfielder", "63", "FALSE"]}
+{"null": ["315614", "SANTIAGO ARIAS", "SANTIAGO", "ARIAS", "1/13/92", "Columbia", "171", "PSV Eindhoven", "Defender", "5", "FALSE"]}
+{"null": ["366573", "SAPHIR TAIDER", "SAPHIR", "TAIDER", "2/29/92", "Algeria", "179", "FC Internazionale", "Midfielder", "10", "FALSE"]}
+{"null": ["380004", "SAYOUBA MANDE", "SAYOUBA", "MANDE", "6/15/93", "Ivory Coast", "193", "Stabaek IF", "Goalkeeper", "1", "FALSE"]}
+{"null": ["376230", "SEAD KOLASINAC", "SEAD", "KOLASINAC", "6/20/93", "Bosnia & Herzegovina", "183", "FC Schalke 04", "Defender", "4", "FALSE"]}
+{"null": ["305382", "SEBASTIAN COATES", "SEBASTIAN", "COATES", "10/7/90", "Uruguay", "196", "Club Nacional de Football", "Defender", "14", "FALSE"]}
+{"null": ["184545", "SEGUNDO CASTILLO", "SEGUNDO", "CASTILLO", "5/15/82", "Ecuador", "180", "Al Hilal FC", "Midfielder", "81", "FALSE"]}
+{"null": ["300407", "SEJAD SALIHOVIC", "SEJAD", "SALIHOVIC", "10/8/84", "Bosnia & Herzegovina", "182", "TSG 1899 Hoffenheim", "Midfielder", "42", "FALSE"]}
+{"null": ["358099", "SENAD LULIC", "SENAD", "LULIC", "1/18/86", "Bosnia & Herzegovina", "183", "SS Lazio", "Midfielder", "33", "FALSE"]}
+{"null": ["300402", "SENIJAD IBRICIC", "SENIJAD", "IBRICIC", "9/26/85", "Bosnia & Herzegovina", "185", "Kayseri Erciyesspor", "Midfielder", "44", "FALSE"]}
+{"null": ["370522", "SERGE AURIER", "SERGE", "AURIER", "12/24/92", "Ivory Coast", "176", "Toulouse FC", "Defender", "7", "FALSE"]}
+{"null": ["186787", "SERGEY IGNASHEVICH", "SERGEY", "IGNASHEVICH", "7/14/79", "Russia", "186", "CSKA Moscow", "Defender", "97", "FALSE"]}
+{"null": ["367333", "SERGEY RYZHIKOV", "SERGEY", "RYZHIKOV", "9/19/80", "Russia", "192", "FC Rubin Kazan", "Goalkeeper", "1", "FALSE"]}
+{"null": ["228528", "SERGIO AGUERO", "SERGIO", "AGUERO", "6/2/88", "Argentina", "172", "Manchester City FC", "Forward", "50", "FALSE"]}
+{"null": ["303034", "SERGIO BUSQUETS", "SERGIO", "BUSQUETS", "7/16/88", "Spain", "189", "FC Barcelona", "Midfielder", "65", "FALSE"]}
+{"null": ["216814", "SERGIO RAMOS", "SERGIO", "RAMOS", "3/30/86", "Spain", "183", "Real Madrid CF", "Defender", "115", "FALSE"]}
+{"null": ["266783", "SERGIO ROMERO", "SERGIO", "ROMERO", "2/22/87", "Argentina", "192", "AS Monaco", "Goalkeeper", "45", "FALSE"]}
+{"null": ["268596", "SHINJI KAGAWA", "SHINJI", "KAGAWA", "3/17/89", "Japan", "172", "Manchester United FC", "Forward", "56", "FALSE"]}
+{"null": ["286278", "SHINJI OKAZAKI", "SHINJI", "OKAZAKI", "4/16/86", "Japan", "174", "FSV Mainz 05", "Forward", "75", "FALSE"]}
+{"null": ["186455", "SHOLA AMEOBI", "SHOLA", "AMEOBI", "10/12/81", "Nigeria", "188", "Newcastle United FC", "Forward", "6", "FALSE"]}
+{"null": ["321734", "SHUICHI GONDA", "SHUICHI", "GONDA", "3/3/89", "Japan", "187", "FC Tokyo", "Goalkeeper", "2", "FALSE"]}
+{"null": ["214581", "SHUSAKU NISHIKAWA", "SHUSAKU", "NISHIKAWA", "6/18/86", "Japan", "183", "Urawa Red Diamonds", "Goalkeeper", "12", "FALSE"]}
+{"null": ["336485", "SIME VRSALJKO", "SIME", "VRSALJKO", "1/10/92", "Croatia", "183", "Genoa CFC", "Defender", "6", "FALSE"]}
+{"null": ["298738", "SIMON MIGNOLET", "SIMON", "MIGNOLET", "3/6/88", "Belgium", "193", "Liverpool FC", "Goalkeeper", "14", "FALSE"]}
+{"null": ["319358", "SOFIANE FEGHOULI", "SOFIANE", "FEGHOULI", "12/26/89", "Algeria", "177", "Valencia CF", "Forward", "18", "FALSE"]}
+{"null": ["299090", "SOKRATIS PAPASTATHOPOULOS", "SOKRATIS", "PAPASTATHOPOULOS", "6/9/88", "Greece", "186", "Borussia Dortmund", "Defender", "47", "FALSE"]}
+{"null": ["307849", "SON HEUNGMIN", "SON", "HEUNGMIN", "7/8/92", "South Korea", "183", "Bayer 04 Leverkusen", "Midfielder", "24", "FALSE"]}
+{"null": ["207946", "SOULEYMANE BAMBA", "SOULEYMANE", "BAMBA", "1/13/85", "Ivory Coast", "190", "Trabzonspor", "Defender", "42", "FALSE"]}
+{"null": ["313021", "STEFAN DE VRIJ", "STEFAN", "DE VRIJ", "2/5/92", "Netherlands", "190", "Feyenoord Rotterdam", "Defender", "11", "FALSE"]}
+{"null": ["362645", "STEFANOS KAPINO", "STEFANOS", "KAPINO", "3/18/94", "Greece", "196", "Panathinaikos FC", "Goalkeeper", "2", "FALSE"]}
+{"null": ["196605", "STEPHAN LICHTSTEINER", "STEPHAN", "LICHTSTEINER", "1/16/84", "Switzerland", "180", "Juventus FC", "Defender", "63", "FALSE"]}
+{"null": ["200935", "STEPHANE MBIA", "STEPHANE", "MBIA", "5/20/86", "Cameroon", "190", "Sevilla FC", "Midfielder", "49", "FALSE"]}
+{"null": ["359448", "STEPHANE RUFFIER", "STEPHANE", "RUFFIER", "9/27/86", "France", "188", "AS Saint-Etienne", "Goalkeeper", "2", "FALSE"]}
+{"null": ["323574", "STEPHEN ADAMS", "STEPHEN", "ADAMS", "9/28/89", "Ghana", "177", "Aduana Stars", "Goalkeeper", "6", "FALSE"]}
+{"null": ["196620", "STEVE VON BERGEN", "STEVE", "VON BERGEN", "6/10/83", "Switzerland", "183", "BSC Young Boys", "Defender", "41", "FALSE"]}
+{"null": ["379889", "STEVEN BEITASHOUR", "STEVEN", "BEITASHOUR", "2/1/87", "Iran", "178", "Vancouver Whitecaps FC", "Defender", "6", "FALSE"]}
+{"null": ["290824", "STEVEN DEFOUR", "STEVEN", "DEFOUR", "4/15/88", "Belgium", "173", "FC Porto", "Midfielder", "43", "FALSE"]}
+{"null": ["214961", "STEVEN GERRARD", "STEVEN", "GERRARD", "5/30/80", "England", "185", "Liverpool FC", "Midfielder", "110", "TRUE"]}
+{"null": ["179048", "STIPE PLETIKOSA", "STIPE", "PLETIKOSA", "1/8/79", "Croatia", "193", "FC Rostov", "Goalkeeper", "110", "FALSE"]}
+{"null": ["183000", "SULLEY MUNTARI", "SULLEY", "MUNTARI", "8/27/84", "Ghana", "179", "AC Milan", "Midfielder", "80", "FALSE"]}
+{"null": ["367558", "SYLVAIN GBOHOUO", "SYLVAIN", "GBOHOUO", "10/29/88", "Ivory Coast", "190", "Sewe Sport", "Goalkeeper", "2", "FALSE"]}
+{"null": ["309716", "TEOFILO GUTIERREZ", "TEOFILO", "GUTIERREZ", "5/17/85", "Columbia", "180", "CA River Plate", "Forward", "29", "FALSE"]}
+{"null": ["336085", "TERENCE KONGOLO", "TERENCE", "KONGOLO", "2/14/94", "Netherlands", "183", "Feyenoord Rotterdam", "Defender", "1", "FALSE"]}
+{"null": ["230517", "THEOFANIS GEKAS", "THEOFANIS", "GEKAS", "5/23/80", "Greece", "179", "Konyaspor", "Forward", "71", "FALSE"]}
+{"null": ["175689", "THIAGO MOTTA", "THIAGO", "MOTTA", "8/28/82", "Italy", "187", "Paris Saint-Germain FC", "Midfielder", "22", "FALSE"]}
+{"null": ["289964", "THIAGO SILVA", "THIAGO", "SILVA", "9/22/84", "Brazil", "182", "Paris Saint-Germain FC", "Defender", "45", "TRUE"]}
+{"null": ["358106", "THIBAUT COURTOIS", "THIBAUT", "COURTOIS", "5/11/92", "Belgium", "198", "Atletico Madrid", "Goalkeeper", "16", "FALSE"]}
+{"null": ["321722", "THOMAS MUELLER", "THOMAS", "MUELLER", "9/13/89", "Germany", "186", "FC Bayern Muenchen", "Forward", "48", "FALSE"]}
+{"null": ["216880", "THOMAS VERMAELEN", "THOMAS", "VERMAELEN", "11/14/85", "Belgium", "178", "Arsenal FC", "Defender", "48", "FALSE"]}
+{"null": ["213001", "TIM CAHILL", "TIM", "CAHILL", "12/6/79", "Australia", "180", "New York Red Bulls", "Forward", "68", "FALSE"]}
+{"null": ["178420", "TIM HOWARD", "TIM", "HOWARD", "3/6/79", "USA", "187", "Everton FC", "Goalkeeper", "98", "FALSE"]}
+{"null": ["232760", "TIM KRUL", "TIM", "KRUL", "4/3/88", "Netherlands", "193", "Newcastle United FC", "Goalkeeper", "5", "FALSE"]}
+{"null": ["365556", "TIMMY CHANDLER", "TIMMY", "CHANDLER", "3/29/90", "USA", "186", "1. FC Nuernberg", "Defender", "12", "FALSE"]}
+{"null": ["379808", "TINO SVEN SUSIC", "TINO", "SVEN SUSIC", "2/13/92", "Bosnia & Herzegovina", "186", "HNK Hajduk Split", "Midfielder", "2", "FALSE"]}
+{"null": ["290864", "TOBY ALDERWEIRELD", "TOBY", "ALDERWEIRELD", "3/2/89", "Belgium", "186", "Atletico Madrid", "Defender", "34", "FALSE"]}
+{"null": ["306424", "TOMMY OAR", "TOMMY", "OAR", "12/10/91", "Australia", "170", "FC Utrecht", "Midfielder", "14", "FALSE"]}
+{"null": ["275162", "TONI KROOS", "TONI", "KROOS", "1/4/90", "Germany", "182", "FC Bayern Muenchen", "Midfielder", "43", "FALSE"]}
+{"null": ["359993", "TONI SUNJIC", "TONI", "SUNJIC", "12/15/88", "Bosnia & Herzegovina", "192", "FC Zorya Lugansk", "Defender", "7", "FALSE"]}
+{"null": ["268911", "TOSHIHIRO AOYAMA", "TOSHIHIRO", "AOYAMA", "2/22/86", "Japan", "174", "Sanfrecce Hiroshima", "Midfielder", "5", "FALSE"]}
+{"null": ["209979", "TRANQUILLO BARNETTA", "TRANQUILLO", "BARNETTA", "5/22/85", "Switzerland", "178", "Eintracht Frankfurt", "Midfielder", "74", "FALSE"]}
+{"null": ["338673", "UCHE NWOFOR", "UCHE", "NWOFOR", "9/17/91", "Nigeria", "177", "SC Heerenveen", "Forward", "6", "FALSE"]}
+{"null": ["267647", "UWA ECHIEJILE", "UWA", "ECHIEJILE", "1/20/88", "Nigeria", "185", "AS Monaco", "Defender", "41", "FALSE"]}
+{"null": ["297331", "VALENTIN STOCKER", "VALENTIN", "STOCKER", "4/12/89", "Switzerland", "179", "FC Basel", "Midfielder", "24", "FALSE"]}
+{"null": ["216627", "VALON BEHRAMI", "VALON", "BEHRAMI", "4/19/85", "Switzerland", "184", "SSC Napoli", "Midfielder", "48", "FALSE"]}
+{"null": ["215471", "VANGELIS MORAS", "VANGELIS", "MORAS", "8/26/81", "Greece", "193", "Hellas Verona FC", "Defender", "18", "FALSE"]}
+{"null": ["254166", "VARELA SILVESTRE", "VARELA", "SILVESTRE", "2/2/85", "Portugal", "180", "FC Porto", "Forward", "22", "FALSE"]}
+{"null": ["228336", "VASILEIOS TOROSIDIS", "VASILEIOS", "TOROSIDIS", "6/10/85", "Greece", "185", "AS Roma", "Defender", "65", "FALSE"]}
+{"null": ["186793", "VASILY BEREZUTSKIY", "VASILY", "BEREZUTSKIY", "6/20/82", "Russia", "188", "CSKA Moscow", "Defender", "77", "FALSE"]}
+{"null": ["300411", "VEDAD IBISEVIC", "VEDAD", "IBISEVIC", "8/6/84", "Bosnia & Herzegovina", "189", "VfB Stuttgart", "Forward", "55", "FALSE"]}
+{"null": ["297373", "VEDRAN CORLUKA", "VEDRAN", "CORLUKA", "2/5/86", "Croatia", "192", "FC Lokomotiv Moscow", "Defender", "72", "FALSE"]}
+{"null": ["309426", "VICTOR LEANDRO BAGY", "VICTOR", "LEANDRO BAGY", "1/21/83", "Brazil", "195", "Atletico Mineiro", "Goalkeeper", "6", "FALSE"]}
+{"null": ["213878", "VICTOR BERNARDEZ", "VICTOR", "BERNARDEZ", "5/24/82", "Honduras", "187", "San Jose Earthquakes", "Defender", "76", "FALSE"]}
+{"null": ["300235", "VICTOR FAYZULIN", "VICTOR", "FAYZULIN", "4/22/86", "Russia", "176", "FC Zenit St. Petersburg", "Midfielder", "18", "FALSE"]}
+{"null": ["349517", "VICTOR IBARBO", "VICTOR", "IBARBO", "5/19/90", "Columbia", "188", "Cagliari Calcio", "Forward", "8", "FALSE"]}
+{"null": ["274090", "VICTOR MOSES", "VICTOR", "MOSES", "12/12/90", "Nigeria", "177", "Liverpool FC", "Forward", "21", "FALSE"]}
+{"null": ["200205", "VIEIRINHA DE FREITAS", "VIEIRINHA", "DE FREITAS", "1/24/86", "Portugal", "170", "VfL Wolfsburg", "Forward", "7", "FALSE"]}
+{"null": ["323698", "VINCENT ABOUBAKAR", "VINCENT", "ABOUBAKAR", "1/22/92", "Cameroon", "176", "FC Lorient", "Forward", "24", "FALSE"]}
+{"null": ["189300", "VINCENT ENYEAMA", "VINCENT", "ENYEAMA", "8/29/82", "Nigeria", "185", "Lille OSC", "Goalkeeper", "90", "TRUE"]}
+{"null": ["216004", "VINCENT KOMPANY", "VINCENT", "KOMPANY", "4/10/86", "Belgium", "190", "Manchester City FC", "Defender", "59", "TRUE"]}
+{"null": ["358046", "VLADIMIR GRANAT", "VLADIMIR", "GRANAT", "5/22/87", "Russia", "184", "FC Dynamo Moscow", "Defender", "4", "FALSE"]}
+{"null": ["184447", "WALTER AYOVI", "WALTER", "AYOVI", "8/11/79", "Ecuador", "173", "CF Pachuca", "Midfielder", "89", "FALSE"]}
+{"null": ["276131", "WALTER GARGANO", "WALTER", "GARGANO", "7/23/84", "Uruguay", "168", "Parma FC", "Midfielder", "62", "FALSE"]}
+{"null": ["379974", "WAYLON FRANCIS", "WAYLON", "FRANCIS", "9/20/90", "Costa Rica", "175", "Columbus Crew", "Defender", "1", "FALSE"]}
+{"null": ["196842", "WAYNE ROONEY", "WAYNE", "ROONEY", "10/24/85", "England", "176", "Manchester United FC", "Forward", "90", "FALSE"]}
+{"null": ["215002", "WESLEY SNEIJDER", "WESLEY", "SNEIJDER", "6/9/84", "Netherlands", "171", "Galatasaray SK", "Midfielder", "98", "FALSE"]}
+{"null": ["353118", "WILFRIED BONY", "WILFRIED", "BONY", "12/10/88", "Ivory Coast", "182", "Swansea City AFC", "Forward", "23", "FALSE"]}
+{"null": ["376349", "WILLIAM CARVALHO", "WILLIAM", "CARVALHO", "4/7/92", "Portugal", "185", "Sporting CP", "Midfielder", "3", "FALSE"]}
+{"null": ["218306", "WILLIAN DA SILVA", "WILLIAN", "DA SILVA", "8/9/88", "Brazil", "176", "Chelsea FC", "Midfielder", "6", "FALSE"]}
+{"null": ["209827", "WILSON PALACIOS", "WILSON", "PALACIOS", "7/29/84", "Honduras", "181", "Stoke City FC", "Midfielder", "93", "FALSE"]}
+{"null": ["207528", "XABI ALONSO", "XABI", "ALONSO", "11/25/81", "Spain", "183", "Real Madrid CF", "Midfielder", "109", "FALSE"]}
+{"null": ["177855", "XAVI HERNANDEZ", "XAVI", "HERNANDEZ", "1/25/80", "Spain", "170", "FC Barcelona", "Midfielder", "131", "FALSE"]}
+{"null": ["321653", "XHERDAN SHAQIRI", "XHERDAN", "SHAQIRI", "10/10/91", "Switzerland", "169", "FC Bayern Muenchen", "Midfielder", "33", "FALSE"]}
+{"null": ["366309", "YACINE BRAHIMI", "YACINE", "BRAHIMI", "2/8/90", "Algeria", "171", "Granada CF", "Midfielder", "5", "FALSE"]}
+{"null": ["319460", "YANN SOMMER", "YANN", "SOMMER", "12/17/88", "Switzerland", "183", "FC Basel", "Goalkeeper", "6", "FALSE"]}
+{"null": ["177768", "YASUHITO ENDO", "YASUHITO", "ENDO", "1/28/80", "Japan", "178", "Gamba Osaka", "Midfielder", "143", "FALSE"]}
+{"null": ["184373", "YASUYUKI KONNO", "YASUYUKI", "KONNO", "1/25/83", "Japan", "178", "Gamba Osaka", "Defender", "80", "FALSE"]}
+{"null": ["198106", "YAYA TOURE", "YAYA", "TOURE", "5/13/83", "Ivory Coast", "189", "Manchester City FC", "Midfielder", "82", "FALSE"]}
+{"null": ["307541", "YELTSIN TEJEDA", "YELTSIN", "TEJEDA", "3/17/92", "Costa Rica", "179", "Deportivo Saprissa", "Midfielder", "22", "FALSE"]}
+{"null": ["358013", "YOHAN CABAYE", "YOHAN", "CABAYE", "1/14/86", "France", "175", "Paris Saint-Germain FC", "Midfielder", "29", "FALSE"]}
+{"null": ["275096", "YOICHIRO KAKITANI", "YOICHIRO", "KAKITANI", "1/3/90", "Japan", "177", "Cerezo Osaka", "Forward", "11", "FALSE"]}
+{"null": ["180936", "YOSHITO OKUBO", "YOSHITO", "OKUBO", "6/9/82", "Japan", "170", "Kawasaki Frontale", "Forward", "56", "FALSE"]}
+{"null": ["274283", "YUN SUKYOUNG", "YUN", "SUKYOUNG", "2/13/90", "South Korea", "182", "Queens Park Rangers FC", "Defender", "3", "FALSE"]}
+{"null": ["367343", "YURY LODYGIN", "YURY", "LODYGIN", "5/26/90", "Russia", "186", "FC Zenit St. Petersburg", "Goalkeeper", "2", "FALSE"]}
+{"null": ["216432", "YURY ZHIRKOV", "YURY", "ZHIRKOV", "8/20/83", "Russia", "180", "FC Dynamo Moscow", "Forward", "60", "FALSE"]}
+{"null": ["291372", "YUTO NAGATOMO", "YUTO", "NAGATOMO", "9/12/86", "Japan", "170", "FC Internazionale", "Defender", "69", "FALSE"]}
+{"null": ["275136", "YUYA OSAKO", "YUYA", "OSAKO", "5/18/90", "Japan", "182", "TSV 1860 Muenchen", "Forward", "8", "FALSE"]}
+{"null": ["216071", "ZVJEZDAN MISIMOVIC", "ZVJEZDAN", "MISIMOVIC", "6/5/82", "Bosnia & Herzegovina", "180", "Guizhou Renhe FC", "Midfielder", "81", "FALSE"]}
