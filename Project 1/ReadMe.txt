@@ -13,5 +13,3 @@ All the Java code files are submitted in one folder.
 All the Input files are formatted and are arranged in the folder "Input Files"
 All the output files recorded are submitted in the folder "Output Files"
 
-PseudoCode for the application is also submitted as "DB2 Project1 Completed Project Report"
-All the above said files are zipped in one folder named "DB2 Project1 Basavapatna Nagaraja Rao, Pulivendula Balasubramanyam.zip"
